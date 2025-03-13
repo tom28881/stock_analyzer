@@ -1,0 +1,716 @@
+series_id,name,url,source_category
+CROASMIDTIER,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Mid-Tier",https://fred.stlouisfed.org/series/CROASMIDTIER,https://fred.stlouisfed.org/categories/46
+CROASTIER0,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 0",https://fred.stlouisfed.org/series/CROASTIER0,https://fred.stlouisfed.org/categories/46
+CROASTIER1,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 1",https://fred.stlouisfed.org/series/CROASTIER1,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER1,AD&Co US Mortgage High Yield Index: Tier 1,https://fred.stlouisfed.org/series/CRTINDEXTIER1,https://fred.stlouisfed.org/categories/46
+CROASTIER3,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 3",https://fred.stlouisfed.org/series/CROASTIER3,https://fred.stlouisfed.org/categories/46
+CROASTIER2,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 2",https://fred.stlouisfed.org/series/CROASTIER2,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER0,AD&Co US Mortgage High Yield Index: Tier 0,https://fred.stlouisfed.org/series/CRTINDEXTIER0,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER3,AD&Co US Mortgage High Yield Index: Tier 3,https://fred.stlouisfed.org/series/CRTINDEXTIER3,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER2,AD&Co US Mortgage High Yield Index: Tier 2,https://fred.stlouisfed.org/series/CRTINDEXTIER2,https://fred.stlouisfed.org/categories/46
+CRTINDEXMIDTIER,AD&Co US Mortgage High Yield Index: Mid-Tier,https://fred.stlouisfed.org/series/CRTINDEXMIDTIER,https://fred.stlouisfed.org/categories/46
+VISASMIDNSA,Visa Spending Momentum Index: Discretionary: United States,https://fred.stlouisfed.org/series/VISASMIDNSA,https://fred.stlouisfed.org/categories/46
+VISASMIDSA,Seasonally Adjusted,https://fred.stlouisfed.org/series/VISASMIDSA,https://fred.stlouisfed.org/categories/46
+VISASMIHNSA,Visa Spending Momentum Index: Headline: United States,https://fred.stlouisfed.org/series/VISASMIHNSA,https://fred.stlouisfed.org/categories/46
+VISASMIHSA,Seasonally Adjusted,https://fred.stlouisfed.org/series/VISASMIHSA,https://fred.stlouisfed.org/categories/46
+VISASMINNSA,Visa Spending Momentum Index: Non-discretionary: United States,https://fred.stlouisfed.org/series/VISASMINNSA,https://fred.stlouisfed.org/categories/46
+VISASMINSA,Seasonally Adjusted,https://fred.stlouisfed.org/series/VISASMINSA,https://fred.stlouisfed.org/categories/46
+RCCCBBALTOT,Large Bank Consumer Credit Card Balances: Total Balances,https://fred.stlouisfed.org/series/RCCCBBALTOT,https://fred.stlouisfed.org/categories/23
+RCMFLOORIG,Large Bank Consumer Mortgage Originations: New Originations,https://fred.stlouisfed.org/series/RCMFLOORIG,https://fred.stlouisfed.org/categories/23
+RCCCBACTDPD30P,Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based,https://fred.stlouisfed.org/series/RCCCBACTDPD30P,https://fred.stlouisfed.org/categories/23
+RCMFLOLTVPCT50,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile,https://fred.stlouisfed.org/series/RCMFLOLTVPCT50,https://fred.stlouisfed.org/categories/23
+RCMFLBACTDPDPCT30P,Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based,https://fred.stlouisfed.org/series/RCMFLBACTDPDPCT30P,https://fred.stlouisfed.org/categories/23
+RCCCBSHRMIN,Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment,https://fred.stlouisfed.org/series/RCCCBSHRMIN,https://fred.stlouisfed.org/categories/23
+RCMFLBBALDPDPCT30P,Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based,https://fred.stlouisfed.org/series/RCMFLBBALDPDPCT30P,https://fred.stlouisfed.org/categories/23
+RCMFLBACTDPDPCT90P,Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based,https://fred.stlouisfed.org/series/RCMFLBACTDPDPCT90P,https://fred.stlouisfed.org/categories/23
+RCCCOORG,Large Bank Consumer Credit Card Originations: New Originations,https://fred.stlouisfed.org/series/RCCCOORG,https://fred.stlouisfed.org/categories/23
+RCCCBSCOREPCT50,Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBSCOREPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBACTDPD90P,Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Accounts Based,https://fred.stlouisfed.org/series/RCCCBACTDPD90P,https://fred.stlouisfed.org/categories/23
+RCCCBSHRFULL,Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment,https://fred.stlouisfed.org/series/RCCCBSHRFULL,https://fred.stlouisfed.org/categories/23
+RCMFLOACT,Large Bank Consumer Mortgage Originations: Number of New Accounts,https://fred.stlouisfed.org/series/RCMFLOACT,https://fred.stlouisfed.org/categories/23
+RCCCBBALREV,Large Bank Consumer Credit Card Balances: Revolving Balances Only,https://fred.stlouisfed.org/series/RCCCBBALREV,https://fred.stlouisfed.org/categories/23
+RCCCONUMACT,Large Bank Consumer Credit Card Originations: Number of New Accounts,https://fred.stlouisfed.org/series/RCCCONUMACT,https://fred.stlouisfed.org/categories/23
+RCCCBBALDPD30P,Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Balances Based,https://fred.stlouisfed.org/series/RCCCBBALDPD30P,https://fred.stlouisfed.org/categories/23
+RCMFLOBEDTIPCT50,Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 50th Percentile,https://fred.stlouisfed.org/series/RCMFLOBEDTIPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBBALDPD90P,Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based,https://fred.stlouisfed.org/series/RCCCBBALDPD90P,https://fred.stlouisfed.org/categories/23
+RCMFLOLTVPCT75,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 75th Percentile,https://fred.stlouisfed.org/series/RCMFLOLTVPCT75,https://fred.stlouisfed.org/categories/23
+RCMFLBBALDPDPCT60P,Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based,https://fred.stlouisfed.org/series/RCMFLBBALDPDPCT60P,https://fred.stlouisfed.org/categories/23
+RCMFLBOLTVPCT90,Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 90th Percentile,https://fred.stlouisfed.org/series/RCMFLBOLTVPCT90,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEUTILPCT75,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEUTILPCT75,https://fred.stlouisfed.org/categories/23
+RCMFLBBEDTIPCT90,Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile,https://fred.stlouisfed.org/series/RCMFLBBEDTIPCT90,https://fred.stlouisfed.org/categories/23
+RCMFLBBALDPDPCT90P,Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based,https://fred.stlouisfed.org/series/RCMFLBBALDPDPCT90P,https://fred.stlouisfed.org/categories/23
+RCCCBLIMPCT90,Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile,https://fred.stlouisfed.org/series/RCCCBLIMPCT90,https://fred.stlouisfed.org/categories/23
+RCCCBSHRGTMINLTMAX,Large Bank Consumer Credit Card Balances: Share of Accounts Making Greater Than the Minimum Payment but Less Than the Full Balance,https://fred.stlouisfed.org/series/RCCCBSHRGTMINLTMAX,https://fred.stlouisfed.org/categories/23
+RCMFLBOLTVPCT50,Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 50th Percentile,https://fred.stlouisfed.org/series/RCMFLBOLTVPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEUTILPCT50,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEUTILPCT50,https://fred.stlouisfed.org/categories/23
+RCCCOSCOREPCT10,Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile,https://fred.stlouisfed.org/series/RCCCOSCOREPCT10,https://fred.stlouisfed.org/categories/23
+RCMFLBACTDPDPCT60P,Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Accounts Based,https://fred.stlouisfed.org/series/RCMFLBACTDPDPCT60P,https://fred.stlouisfed.org/categories/23
+RCCCBPCTCLINC,Large Bank Consumer Credit Card Balances: Accounts with Credit Line Increase,https://fred.stlouisfed.org/series/RCCCBPCTCLINC,https://fred.stlouisfed.org/categories/23
+RCCCBCOMTOT,Large Bank Consumer Credit Card Balances: Total Commitments,https://fred.stlouisfed.org/series/RCCCBCOMTOT,https://fred.stlouisfed.org/categories/23
+RCCCBNUMACT,Large Bank Consumer Credit Card Balances: Number of Accounts,https://fred.stlouisfed.org/series/RCCCBNUMACT,https://fred.stlouisfed.org/categories/23
+RCMFLBSCOREPCT50,Large Bank Consumer Mortgage Balances: Current Credit Score: 50th Percentile,https://fred.stlouisfed.org/series/RCMFLBSCOREPCT50,https://fred.stlouisfed.org/categories/23
+RCMFLBFEDTIPCT75,Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 75th Percentile,https://fred.stlouisfed.org/series/RCMFLBFEDTIPCT75,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEUTILPCT90,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 90th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEUTILPCT90,https://fred.stlouisfed.org/categories/23
+RCCCBSCOREPCT10,Large Bank Consumer Credit Card Balances: Current Credit Score: 10th Percentile,https://fred.stlouisfed.org/series/RCCCBSCOREPCT10,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEBALPCT50,Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEBALPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBSCOREPCT25,Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile,https://fred.stlouisfed.org/series/RCCCBSCOREPCT25,https://fred.stlouisfed.org/categories/23
+RCMFLOSCOREPCT25,Large Bank Consumer Mortgage Originations: Original Credit Score: 25th Percentile,https://fred.stlouisfed.org/series/RCMFLOSCOREPCT25,https://fred.stlouisfed.org/categories/23
+RCMFLOLTVPCT90,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 90th Percentile,https://fred.stlouisfed.org/series/RCMFLOLTVPCT90,https://fred.stlouisfed.org/categories/23
+RCMFLBACTNUM,Large Bank Consumer Mortgage Balances: Number of Accounts,https://fred.stlouisfed.org/series/RCMFLBACTNUM,https://fred.stlouisfed.org/categories/23
+RCCCBBALDPD60P,Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based,https://fred.stlouisfed.org/series/RCCCBBALDPD60P,https://fred.stlouisfed.org/categories/23
+RCCCOSCOREPCT25,Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile,https://fred.stlouisfed.org/series/RCCCOSCOREPCT25,https://fred.stlouisfed.org/categories/23
+RCCCBPCTCLDEC,Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease,https://fred.stlouisfed.org/series/RCCCBPCTCLDEC,https://fred.stlouisfed.org/categories/23
+RCMFLOSCOREPCT50,Large Bank Consumer Mortgage Originations: Original Credit Score: 50th Percentile,https://fred.stlouisfed.org/series/RCMFLOSCOREPCT50,https://fred.stlouisfed.org/categories/23
+RCMFLOSCOREPCT10,Large Bank Consumer Mortgage Originations: Original Credit Score: 10th Percentile,https://fred.stlouisfed.org/series/RCMFLOSCOREPCT10,https://fred.stlouisfed.org/categories/23
+RCMFLOFEDTIPCT75,Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 75th Percentile,https://fred.stlouisfed.org/series/RCMFLOFEDTIPCT75,https://fred.stlouisfed.org/categories/23
+RCCCBLIMPCT50,Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBLIMPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBACTDPD60P,Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based,https://fred.stlouisfed.org/series/RCCCBACTDPD60P,https://fred.stlouisfed.org/categories/23
+JPINTDUSDJPY,Japan Intervention: Japanese Bank purchases of USD against JPY,https://fred.stlouisfed.org/series/JPINTDUSDJPY,https://fred.stlouisfed.org/categories/32145
+USINTDMRKTJPY,U.S. Intervention: in Market Transactions in the JPY/USD (Millions of USD),https://fred.stlouisfed.org/series/USINTDMRKTJPY,https://fred.stlouisfed.org/categories/32145
+TRINTDEXR,Turkish Intervention: Central Bank of Turkey Purchases of USD (Millions of USD),https://fred.stlouisfed.org/series/TRINTDEXR,https://fred.stlouisfed.org/categories/32145
+CHINTDCHFUSD,Swiss Intervention: Swiss National Bank Purchases of USD against CHF (Millions of USD),https://fred.stlouisfed.org/series/CHINTDCHFUSD,https://fred.stlouisfed.org/categories/32145
+MEXINTDUSD,Mexican Intervention: Banco de Mexico Purchases of USD against MXN (Millions of USD),https://fred.stlouisfed.org/series/MEXINTDUSD,https://fred.stlouisfed.org/categories/32145
+AUINTDDL,Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Dealers (AUD Millions),https://fred.stlouisfed.org/series/AUINTDDL,https://fred.stlouisfed.org/categories/32145
+USINTDMRKTDM,U.S. Intervention: in Market Transactions in the DEM/USD (Euro since 1999) (Millions of USD),https://fred.stlouisfed.org/series/USINTDMRKTDM,https://fred.stlouisfed.org/categories/32145
+USINTDMRKTOTH,U.S. Intervention: in Market Transactions in Other Currencies (Millions of USD),https://fred.stlouisfed.org/series/USINTDMRKTOTH,https://fred.stlouisfed.org/categories/32145
+JPINTDDMEJPY,Japan Intervention: Japanese Bank purchases of DM/Euro against JPY,https://fred.stlouisfed.org/series/JPINTDDMEJPY,https://fred.stlouisfed.org/categories/32145
+AUINTDGT,Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Government and other Counterparties (AUD Millions),https://fred.stlouisfed.org/series/AUINTDGT,https://fred.stlouisfed.org/categories/32145
+ITINTDRES,"Italian Intervention: Banca d'Italia Purchases of Foreign Exchange (Millions of ECU's, Euros after 1999) (DISCONTINUED)",https://fred.stlouisfed.org/series/ITINTDRES,https://fred.stlouisfed.org/categories/32145
+USINTDCSJPY,U.S. Intervention: With-Customer Transactions in the JPY/USD (Millions of USD),https://fred.stlouisfed.org/series/USINTDCSJPY,https://fred.stlouisfed.org/categories/32145
+DEINTDUSDDM,German Intervention: Bundesbank Purchases on the Dollar/D-Mark (Millions of DEM) (DISCONTINUED),https://fred.stlouisfed.org/series/DEINTDUSDDM,https://fred.stlouisfed.org/categories/32145
+JPINTDEXR,Japan Intervention: Japanese Bank purchases of USD against DM,https://fred.stlouisfed.org/series/JPINTDEXR,https://fred.stlouisfed.org/categories/32145
+CHINTDCHFDM,Swiss Intervention: Swiss National Bank Purchases of DEM against CHF (Millions of DEM),https://fred.stlouisfed.org/series/CHINTDCHFDM,https://fred.stlouisfed.org/categories/32145
+JPINTDUSDRP,Japan Intervention: Japanese Bank purchases of USD against Rupiah,https://fred.stlouisfed.org/series/JPINTDUSDRP,https://fred.stlouisfed.org/categories/32145
+DEINTDEMS,German Intervention: Bundesbank Purchases in EMS Markets (Millions of DEM) (DISCONTINUED),https://fred.stlouisfed.org/series/DEINTDEMS,https://fred.stlouisfed.org/categories/32145
+USINTDCSOTH,U.S. Intervention: With-Customer Transactions in Other Currencies (Millions of USD),https://fred.stlouisfed.org/series/USINTDCSOTH,https://fred.stlouisfed.org/categories/32145
+CHINTDUSDJPY,Swiss Intervention: Swiss National Bank Purchases of USD against JPY (Millions of USD),https://fred.stlouisfed.org/series/CHINTDUSDJPY,https://fred.stlouisfed.org/categories/32145
+USINTDCSDM,U.S. Intervention: With-Customer Transactions in the DEM/USD (Euro since 1999) (Millions of USD),https://fred.stlouisfed.org/series/USINTDCSDM,https://fred.stlouisfed.org/categories/32145
+CHINTDUSDDM,Swiss Intervention: Swiss National Bank Purchases of USD against DEM (Millions of USD),https://fred.stlouisfed.org/series/CHINTDUSDDM,https://fred.stlouisfed.org/categories/32145
+NROU,Noncyclical Rate of Unemployment,https://fred.stlouisfed.org/series/NROU,https://fred.stlouisfed.org/categories/10
+NROUST,Natural Rate of Unemployment (Short-Term) (DISCONTINUED),https://fred.stlouisfed.org/series/NROUST,https://fred.stlouisfed.org/categories/10
+LNS14000006,Unemployment Rate - Black or African American,https://fred.stlouisfed.org/series/LNS14000006,https://fred.stlouisfed.org/categories/12
+U6RATE,"Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)",https://fred.stlouisfed.org/series/U6RATE,https://fred.stlouisfed.org/categories/12
+U6RATENSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/U6RATENSA,https://fred.stlouisfed.org/categories/12
+CNP16OV,Population Level,https://fred.stlouisfed.org/series/CNP16OV,https://fred.stlouisfed.org/categories/12
+U2RATE,Unemployment Rate - Job Losers (U-2),https://fred.stlouisfed.org/series/U2RATE,https://fred.stlouisfed.org/categories/12
+U2RATENSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/U2RATENSA,https://fred.stlouisfed.org/categories/12
+LNS12032194,"Employment Level - Part-Time for Economic Reasons, All Industries",https://fred.stlouisfed.org/series/LNS12032194,https://fred.stlouisfed.org/categories/12
+LNS15000000,Not in Labor Force,https://fred.stlouisfed.org/series/LNS15000000,https://fred.stlouisfed.org/categories/12
+LNS14000009,Unemployment Rate - Hispanic or Latino,https://fred.stlouisfed.org/series/LNS14000009,https://fred.stlouisfed.org/categories/12
+LNS14000003,Unemployment Rate - White,https://fred.stlouisfed.org/series/LNS14000003,https://fred.stlouisfed.org/categories/12
+UEMP27OV,Number Unemployed for 27 Weeks & over,https://fred.stlouisfed.org/series/UEMP27OV,https://fred.stlouisfed.org/categories/12
+U4RATE,"Total Unemployed Plus Discouraged Workers, as a Percent of the Civilian Labor Force Plus Discouraged Workers (U-4)",https://fred.stlouisfed.org/series/U4RATE,https://fred.stlouisfed.org/categories/12
+U4RATENSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/U4RATENSA,https://fred.stlouisfed.org/categories/12
+LNS14027660,"Unemployment Rate - High School Graduates, No College, 25 Yrs. & over",https://fred.stlouisfed.org/series/LNS14027660,https://fred.stlouisfed.org/categories/12
+LNS12032195,"Employment Level - Part-Time for Economic Reasons, Slack Work or Business Conditions, All Industries",https://fred.stlouisfed.org/series/LNS12032195,https://fred.stlouisfed.org/categories/12
+LNU05026642,"Not in Labor Force - Want a Job Now, Marginally Attached (Searched for Work in Previous Year, Available to Work Now)",https://fred.stlouisfed.org/series/LNU05026642,https://fred.stlouisfed.org/categories/12
+U1RATE,Percent of Civilian Labor Force Unemployed 15 Weeks and over (U-1),https://fred.stlouisfed.org/series/U1RATE,https://fred.stlouisfed.org/categories/12
+U1RATENSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/U1RATENSA,https://fred.stlouisfed.org/categories/12
+UEMPMED,Median Weeks Unemployed,https://fred.stlouisfed.org/series/UEMPMED,https://fred.stlouisfed.org/categories/12
+U5RATE,"Total Unemployed, Plus Discouraged Workers, Plus All Other Persons Marginally Attached to the Labor Force, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-5)",https://fred.stlouisfed.org/series/U5RATE,https://fred.stlouisfed.org/categories/12
+U5RATENSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/U5RATENSA,https://fred.stlouisfed.org/categories/12
+LNU04032183,Unemployment Rate - Asian,https://fred.stlouisfed.org/series/LNU04032183,https://fred.stlouisfed.org/categories/12
+LNS14027659,"Unemployment Rate - Less Than a High School Diploma, 25 Yrs. & over",https://fred.stlouisfed.org/series/LNS14027659,https://fred.stlouisfed.org/categories/12
+LNS14000012,Unemployment Rate - 16-19 Yrs.,https://fred.stlouisfed.org/series/LNS14000012,https://fred.stlouisfed.org/categories/12
+LNU05026645,"Not in Labor Force - Want a Job Now, Marginally Attached, Discouraged Workers",https://fred.stlouisfed.org/series/LNU05026645,https://fred.stlouisfed.org/categories/12
+UEMPLT5,Number Unemployed for Less Than 5 Weeks,https://fred.stlouisfed.org/series/UEMPLT5,https://fred.stlouisfed.org/categories/12
+NILFWJN,Not in Labor Force - Want a Job Now,https://fred.stlouisfed.org/series/NILFWJN,https://fred.stlouisfed.org/categories/12
+NILFWJNN,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/NILFWJNN,https://fred.stlouisfed.org/categories/12
+UEMP15OV,Number Unemployed for 15 Weeks & over,https://fred.stlouisfed.org/series/UEMP15OV,https://fred.stlouisfed.org/categories/12
+LNS12032196,"Employment Level - Part-Time for Economic Reasons, Could Only Find Part-Time Work, All Industries",https://fred.stlouisfed.org/series/LNS12032196,https://fred.stlouisfed.org/categories/12
+LNS12005977,"Number At Work 1-34 Hours, Usually Work Part Time Noneconomic Reasons",https://fred.stlouisfed.org/series/LNS12005977,https://fred.stlouisfed.org/categories/12
+UEMP5TO14,Number Unemployed for 5-14 Weeks,https://fred.stlouisfed.org/series/UEMP5TO14,https://fred.stlouisfed.org/categories/12
+LNS14027689,"Unemployment Rate - Some College or Associate Degree, 25 Yrs. & over",https://fred.stlouisfed.org/series/LNS14027689,https://fred.stlouisfed.org/categories/12
+UEMP15T26,Number Unemployed for 15-26 Weeks,https://fred.stlouisfed.org/series/UEMP15T26,https://fred.stlouisfed.org/categories/12
+LNS13023621,Unemployment Level - Job Losers,https://fred.stlouisfed.org/series/LNS13023621,https://fred.stlouisfed.org/categories/12
+LNS14000025,"Unemployment Rate - 20 Yrs. & over, Men",https://fred.stlouisfed.org/series/LNS14000025,https://fred.stlouisfed.org/categories/12
+LNS13023705,Unemployment Level - Job Leavers,https://fred.stlouisfed.org/series/LNS13023705,https://fred.stlouisfed.org/categories/12
+LNS14000026,"Unemployment Rate - 20 Yrs. & over, Women",https://fred.stlouisfed.org/series/LNS14000026,https://fred.stlouisfed.org/categories/12
+LNS13023569,Unemployment Level - New Entrants,https://fred.stlouisfed.org/series/LNS13023569,https://fred.stlouisfed.org/categories/12
+LNS14000048,Unemployment Rate - 25 Yrs. & over,https://fred.stlouisfed.org/series/LNS14000048,https://fred.stlouisfed.org/categories/12
+LNS13023557,Unemployment Level - Reentrants to Labor Force,https://fred.stlouisfed.org/series/LNS13023557,https://fred.stlouisfed.org/categories/12
+ADPWNUSNERSA,Total Nonfarm Private Payroll Employment,https://fred.stlouisfed.org/series/ADPWNUSNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMNUSNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMNUSNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMNUSNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMNUSNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWNUSNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWNUSNERNSA,https://fred.stlouisfed.org/categories/32250
+NPPTTL,Total Nonfarm Private Payroll Employment (DISCONTINUED),https://fred.stlouisfed.org/series/NPPTTL,https://fred.stlouisfed.org/categories/32250
+ADPWINDMANNERSA,Nonfarm Private Payroll Employment for Manufacturing,https://fred.stlouisfed.org/series/ADPWINDMANNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDMANNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDMANNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDMANNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDMANNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDMANNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDMANNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDCONNERSA,Nonfarm Private Payroll Employment for Construction,https://fred.stlouisfed.org/series/ADPWINDCONNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDCONNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDCONNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDCONNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDCONNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDCONNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDCONNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDINFONERSA,Nonfarm Private Payroll Employment for Information,https://fred.stlouisfed.org/series/ADPWINDINFONERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDINFONERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDINFONERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDINFONERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDINFONERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDINFONERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDINFONERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDLSHPNERSA,Nonfarm Private Payroll Employment for Leisure and Hospitality,https://fred.stlouisfed.org/series/ADPWINDLSHPNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDLSHPNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDLSHPNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDLSHPNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDLSHPNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDLSHPNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDLSHPNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMES1T19ENERSA,Nonfarm Private Employment in Small Establishments with 1 to 19 Employees,https://fred.stlouisfed.org/series/ADPMES1T19ENERSA,https://fred.stlouisfed.org/categories/32250
+ADPWES1T19ENERSA,"Weekly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWES1T19ENERSA,https://fred.stlouisfed.org/categories/32250
+ADPWES1T19ENERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWES1T19ENERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMES1T19ENERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMES1T19ENERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDPROBUSNERSA,Nonfarm Private Payroll Employment for Professional and Business Services,https://fred.stlouisfed.org/series/ADPWINDPROBUSNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDPROBUSNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDPROBUSNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDPROBUSNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDPROBUSNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDPROBUSNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDPROBUSNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDEDHLTNERSA,Nonfarm Private Payroll Employment for Education and Health Services,https://fred.stlouisfed.org/series/ADPWINDEDHLTNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDEDHLTNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDEDHLTNERSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDEDHLTNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDEDHLTNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDEDHLTNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDEDHLTNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMES500PENERSA,Nonfarm Private Employment in Large Establishments with 500+ Employees,https://fred.stlouisfed.org/series/ADPMES500PENERSA,https://fred.stlouisfed.org/categories/32250
+ADPWES500PENERSA,"Weekly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWES500PENERSA,https://fred.stlouisfed.org/categories/32250
+ADPMES500PENERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMES500PENERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWES500PENERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWES500PENERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDTTUNERSA,"Nonfarm Private Payroll Employment for Trade, Transportation, and Utilities",https://fred.stlouisfed.org/series/ADPWINDTTUNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDTTUNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDTTUNERSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDTTUNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDTTUNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDTTUNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDTTUNERNSA,https://fred.stlouisfed.org/categories/32250
+NPPMNF,Nonfarm Private Manufacturing Payroll Employment (DISCONTINUED),https://fred.stlouisfed.org/series/NPPMNF,https://fred.stlouisfed.org/categories/32250
+ADPWINDFINNERSA,Nonfarm Private Payroll Employment for Financial Activities,https://fred.stlouisfed.org/series/ADPWINDFINNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDFINNERSA,"Monthly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDFINNERSA,https://fred.stlouisfed.org/categories/32250
+ADPMINDFINNERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMINDFINNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPWINDFINNERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWINDFINNERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMES250T499ENERSA,Nonfarm Private Employment in Medium Establishments with 250 to 499 Employees,https://fred.stlouisfed.org/series/ADPMES250T499ENERSA,https://fred.stlouisfed.org/categories/32250
+ADPWES250T499ENERSA,"Weekly, Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWES250T499ENERSA,https://fred.stlouisfed.org/categories/32250
+ADPWES250T499ENERNSA,"Weekly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPWES250T499ENERNSA,https://fred.stlouisfed.org/categories/32250
+ADPMES250T499ENERNSA,"Monthly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/ADPMES250T499ENERNSA,https://fred.stlouisfed.org/categories/32250
+GCT1502US,People 25 Years and Over Who Have Completed a Bachelor's Degree for the United States (DISCONTINUED),https://fred.stlouisfed.org/series/GCT1502US,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1706037,"Bachelor's Degree or Higher (5-year estimate) in Los Angeles County, CA",https://fred.stlouisfed.org/series/HC01ESTVC1706037,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1736061,"Bachelor's Degree or Higher (5-year estimate) in New York County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1736061,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1706073,"Bachelor's Degree or Higher (5-year estimate) in San Diego County, CA",https://fred.stlouisfed.org/series/HC01ESTVC1706073,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1606037,"High School Graduate or Higher (5-year estimate) in Los Angeles County, CA",https://fred.stlouisfed.org/series/HC01ESTVC1606037,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1636005,"High School Graduate or Higher (5-year estimate) in Bronx County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1636005,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1736081,"Bachelor's Degree or Higher (5-year estimate) in Queens County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1736081,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1708101,"Bachelor's Degree or Higher (5-year estimate) in Pueblo County, CO",https://fred.stlouisfed.org/series/HC01ESTVC1708101,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1706085,"Bachelor's Degree or Higher (5-year estimate) in Santa Clara County, CA",https://fred.stlouisfed.org/series/HC01ESTVC1706085,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1727053,"Bachelor's Degree or Higher (5-year estimate) in Hennepin County, MN",https://fred.stlouisfed.org/series/HC01ESTVC1727053,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1648113,"High School Graduate or Higher (5-year estimate) in Dallas County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1648113,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1736005,"Bachelor's Degree or Higher (5-year estimate) in Bronx County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1736005,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1729510,"Bachelor's Degree or Higher (5-year estimate) in St. Louis city, MO",https://fred.stlouisfed.org/series/HC01ESTVC1729510,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1706075,"Bachelor's Degree or Higher (5-year estimate) in San Francisco County/city, CA",https://fred.stlouisfed.org/series/HC01ESTVC1706075,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1608125,"High School Graduate or Higher (5-year estimate) in Yuma County, CO",https://fred.stlouisfed.org/series/HC01ESTVC1608125,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1636061,"High School Graduate or Higher (5-year estimate) in New York County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1636061,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1724001,"Bachelor's Degree or Higher (5-year estimate) in Allegany County, MD",https://fred.stlouisfed.org/series/HC01ESTVC1724001,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1713067,"Bachelor's Degree or Higher (5-year estimate) in Cobb County, GA",https://fred.stlouisfed.org/series/HC01ESTVC1713067,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1726125,"Bachelor's Degree or Higher (5-year estimate) in Oakland County, MI",https://fred.stlouisfed.org/series/HC01ESTVC1726125,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1728145,"Bachelor's Degree or Higher (5-year estimate) in Union County, MS",https://fred.stlouisfed.org/series/HC01ESTVC1728145,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1748001,"Bachelor's Degree or Higher (5-year estimate) in Anderson County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1748001,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1706079,"Bachelor's Degree or Higher (5-year estimate) in San Luis Obispo County, CA",https://fred.stlouisfed.org/series/HC01ESTVC1706079,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1636053,"High School Graduate or Higher (5-year estimate) in Madison County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1636053,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1645051,"High School Graduate or Higher (5-year estimate) in Horry County, SC",https://fred.stlouisfed.org/series/HC01ESTVC1645051,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1648495,"High School Graduate or Higher (5-year estimate) in Winkler County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1648495,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1618031,"High School Graduate or Higher (5-year estimate) in Decatur County, IN",https://fred.stlouisfed.org/series/HC01ESTVC1618031,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1648191,"High School Graduate or Higher (5-year estimate) in Hall County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1648191,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1648035,"High School Graduate or Higher (5-year estimate) in Bosque County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1648035,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1736059,"Bachelor's Degree or Higher (5-year estimate) in Nassau County, NY",https://fred.stlouisfed.org/series/HC01ESTVC1736059,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1753017,"Bachelor's Degree or Higher (5-year estimate) in Douglas County, WA",https://fred.stlouisfed.org/series/HC01ESTVC1753017,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1754077,"Bachelor's Degree or Higher (5-year estimate) in Preston County, WV",https://fred.stlouisfed.org/series/HC01ESTVC1754077,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1637181,"High School Graduate or Higher (5-year estimate) in Vance County, NC",https://fred.stlouisfed.org/series/HC01ESTVC1637181,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1637035,"High School Graduate or Higher (5-year estimate) in Catawba County, NC",https://fred.stlouisfed.org/series/HC01ESTVC1637035,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1740003,"Bachelor's Degree or Higher (5-year estimate) in Alfalfa County, OK",https://fred.stlouisfed.org/series/HC01ESTVC1740003,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1701001,"Bachelor's Degree or Higher (5-year estimate) in Autauga County, AL",https://fred.stlouisfed.org/series/HC01ESTVC1701001,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1706065,"Bachelor's Degree or Higher (5-year estimate) in Riverside County, CA",https://fred.stlouisfed.org/series/HC01ESTVC1706065,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1712095,"Bachelor's Degree or Higher (5-year estimate) in Orange County, FL",https://fred.stlouisfed.org/series/HC01ESTVC1712095,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1646083,"High School Graduate or Higher (5-year estimate) in Lincoln County, SD",https://fred.stlouisfed.org/series/HC01ESTVC1646083,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1648073,"High School Graduate or Higher (5-year estimate) in Cherokee County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1648073,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1748149,"Bachelor's Degree or Higher (5-year estimate) in Fayette County, TX",https://fred.stlouisfed.org/series/HC01ESTVC1748149,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1626015,"High School Graduate or Higher (5-year estimate) in Barry County, MI",https://fred.stlouisfed.org/series/HC01ESTVC1626015,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1627123,"High School Graduate or Higher (5-year estimate) in Ramsey County, MN",https://fred.stlouisfed.org/series/HC01ESTVC1627123,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1629181,"High School Graduate or Higher (5-year estimate) in Ripley County, MO",https://fred.stlouisfed.org/series/HC01ESTVC1629181,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1637157,"High School Graduate or Higher (5-year estimate) in Rockingham County, NC",https://fred.stlouisfed.org/series/HC01ESTVC1637157,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1641065,"High School Graduate or Higher (5-year estimate) in Wasco County, OR",https://fred.stlouisfed.org/series/HC01ESTVC1641065,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1718027,"Bachelor's Degree or Higher (5-year estimate) in Daviess County, IN",https://fred.stlouisfed.org/series/HC01ESTVC1718027,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1726015,"Bachelor's Degree or Higher (5-year estimate) in Barry County, MI",https://fred.stlouisfed.org/series/HC01ESTVC1726015,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1733009,"Bachelor's Degree or Higher (5-year estimate) in Grafton County, NH",https://fred.stlouisfed.org/series/HC01ESTVC1733009,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1738015,"Bachelor's Degree or Higher (5-year estimate) in Burleigh County, ND",https://fred.stlouisfed.org/series/HC01ESTVC1738015,https://fred.stlouisfed.org/categories/33500
+HC01ESTVC1742089,"Bachelor's Degree or Higher (5-year estimate) in Monroe County, PA",https://fred.stlouisfed.org/series/HC01ESTVC1742089,https://fred.stlouisfed.org/categories/33500
+MEHOINUSA672N,Real Median Household Income in the United States,https://fred.stlouisfed.org/series/MEHOINUSA672N,https://fred.stlouisfed.org/categories/33001
+MEPAINUSA672N,Real Median Personal Income in the United States,https://fred.stlouisfed.org/series/MEPAINUSA672N,https://fred.stlouisfed.org/categories/33001
+MEHOINUSA646N,Median Household Income in the United States,https://fred.stlouisfed.org/series/MEHOINUSA646N,https://fred.stlouisfed.org/categories/33001
+WFRBST01134,Share of Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBST01134,https://fred.stlouisfed.org/categories/33001
+MEPAINUSA646N,Median Personal Income in the United States,https://fred.stlouisfed.org/series/MEPAINUSA646N,https://fred.stlouisfed.org/categories/33001
+WFRBLTP1246,Net Worth Held by the Top 0.1% (99.9th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLTP1246,https://fred.stlouisfed.org/categories/33001
+MEFAINUSA646N,Median Family Income in the United States,https://fred.stlouisfed.org/series/MEFAINUSA646N,https://fred.stlouisfed.org/categories/33001
+WFRBLB50107,Net Worth Held by the Bottom 50% (1st to 50th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLB50107,https://fred.stlouisfed.org/categories/33001
+MEFAINUSA672N,Real Median Family Income in the United States,https://fred.stlouisfed.org/series/MEFAINUSA672N,https://fred.stlouisfed.org/categories/33001
+MAPAINUSA646N,Mean Personal Income in the United States,https://fred.stlouisfed.org/series/MAPAINUSA646N,https://fred.stlouisfed.org/categories/33001
+WFRBSN40188,Share of Net Worth Held by the 50th to 90th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBSN40188,https://fred.stlouisfed.org/categories/33001
+MAFAINUSA646N,Mean Family Income in the United States,https://fred.stlouisfed.org/series/MAFAINUSA646N,https://fred.stlouisfed.org/categories/33001
+FRBATLWGT3MMAUMHWGO,3-Month Moving Average of Unweighted Median Hourly Wage Growth: Overall,https://fred.stlouisfed.org/series/FRBATLWGT3MMAUMHWGO,https://fred.stlouisfed.org/categories/33001
+WFRBSB50215,Share of Net Worth Held by the Bottom 50% (1st to 50th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBSB50215,https://fred.stlouisfed.org/categories/33001
+WFRBLN09053,Net Worth Held by the 90th to 99th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBLN09053,https://fred.stlouisfed.org/categories/33001
+WFRBLT01026,Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLT01026,https://fred.stlouisfed.org/categories/33001
+WFRBLTP1310,Household Count in the Top 0.1% (99.9th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLTP1310,https://fred.stlouisfed.org/categories/33001
+WFRBST01122,Share of Corporate Equities and Mutual Fund Shares Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBST01122,https://fred.stlouisfed.org/categories/33001
+WFRBSTP1300,Share of Net Worth Held by the Top 0.1% (99.9th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBSTP1300,https://fred.stlouisfed.org/categories/33001
+WFRBLTP1311,Minimum Wealth Cutoff for the Top 0.1% (99.9th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLTP1311,https://fred.stlouisfed.org/categories/33001
+WFRBLT01000,Total Assets Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLT01000,https://fred.stlouisfed.org/categories/33001
+WFRBSN09161,Share of Net Worth Held by the 90th to 99th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBSN09161,https://fred.stlouisfed.org/categories/33001
+WFRBLB50086,Checkable Deposits and Currency Held by the Bottom 50% (1st to 50th Wealth Percentiles) (DISCONTINUED),https://fred.stlouisfed.org/series/WFRBLB50086,https://fred.stlouisfed.org/categories/33001
+FRBATLWGTUMHWG83O,Unweighted Median Hourly Wage Growth (1983): Overall,https://fred.stlouisfed.org/series/FRBATLWGTUMHWG83O,https://fred.stlouisfed.org/categories/33001
+WFRBLN09304,Minimum Wealth Cutoff for the 90th to 99th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBLN09304,https://fred.stlouisfed.org/categories/33001
+GINIALLRH,"Income Gini Ratio for Households by Race of Householder, All Races",https://fred.stlouisfed.org/series/GINIALLRH,https://fred.stlouisfed.org/categories/33001
+WFRBLT01005,Checkable Deposits and Currency Held by the Top 1% (99th to 100th Wealth Percentiles) (DISCONTINUED),https://fred.stlouisfed.org/series/WFRBLT01005,https://fred.stlouisfed.org/categories/33001
+WFRBL99T999309,Minimum Wealth Cutoff for the 99th to 99.9th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBL99T999309,https://fred.stlouisfed.org/categories/33001
+FRBATLWGTUMHWGO,Unweighted Median Hourly Wage Growth: Overall,https://fred.stlouisfed.org/series/FRBATLWGTUMHWGO,https://fred.stlouisfed.org/categories/33001
+WFRBLN40080,Net Worth Held by the 50th to 90th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBLN40080,https://fred.stlouisfed.org/categories/33001
+FRBATLWGT3MMAWMHWGO,3-Month Moving Average of Weighted Median Hourly Wage Growth: Overall,https://fred.stlouisfed.org/series/FRBATLWGT3MMAWMHWGO,https://fred.stlouisfed.org/categories/33001
+WFRBST01108,Share of Total Assets Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBST01108,https://fred.stlouisfed.org/categories/33001
+WFRBSN09149,Share of Corporate Equities and Mutual Fund Shares Held by the 90th to 99th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBSN09149,https://fred.stlouisfed.org/categories/33001
+MAFAINUSA672N,Real Mean Family Income in the United States,https://fred.stlouisfed.org/series/MAFAINUSA672N,https://fred.stlouisfed.org/categories/33001
+WFRBLB50081,Total Assets Held by the Bottom 50% (1st to 50th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLB50081,https://fred.stlouisfed.org/categories/33001
+FRBATLWGT12MMAWMHWGO,12-Month Moving Average of Weighted Median Hourly Wage Growth: Overall,https://fred.stlouisfed.org/series/FRBATLWGT12MMAWMHWGO,https://fred.stlouisfed.org/categories/33001
+WFRBL99T999308,Household Count in the 99th to 99.9th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBL99T999308,https://fred.stlouisfed.org/categories/33001
+MAPAINUSA672N,Real Mean Personal Income in the United States,https://fred.stlouisfed.org/series/MAPAINUSA672N,https://fred.stlouisfed.org/categories/33001
+WFRBSB50189,Share of Total Assets Held by the Bottom 50% (1st to 50th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBSB50189,https://fred.stlouisfed.org/categories/33001
+WFRBLTP1227,Total Assets Held by the Top 0.1% (99.9th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLTP1227,https://fred.stlouisfed.org/categories/33001
+WFRBLN40059,Checkable Deposits and Currency Held by the 50th to 90th Wealth Percentiles (DISCONTINUED),https://fred.stlouisfed.org/series/WFRBLN40059,https://fred.stlouisfed.org/categories/33001
+WFRBST01112,Share of Financial Assets Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBST01112,https://fred.stlouisfed.org/categories/33001
+WFRBSB50203,Share of Corporate Equities and Mutual Fund Shares Held by the Bottom 50% (1st to 50th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBSB50203,https://fred.stlouisfed.org/categories/33001
+WFRBLT01014,Corporate Equities and Mutual Fund Shares Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBLT01014,https://fred.stlouisfed.org/categories/33001
+WFRBLN40302,Minimum Wealth Cutoff for the 50th to 90th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBLN40302,https://fred.stlouisfed.org/categories/33001
+WFRBLN09303,Household Count in the 90th to 99th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBLN09303,https://fred.stlouisfed.org/categories/33001
+WFRBSB50194,Share of Checkable Deposits and Currency Held by the Bottom 50% (1st to 50th Wealth Percentiles) (DISCONTINUED),https://fred.stlouisfed.org/series/WFRBSB50194,https://fred.stlouisfed.org/categories/33001
+FRBATLWGT12MMUMHWGJST,12-Month Moving Average of Unweighted Median Hourly Wage Growth: Job Stayer,https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGJST,https://fred.stlouisfed.org/categories/33001
+WFRBST01110,Share of Real Estate Held by the Top 1% (99th to 100th Wealth Percentiles),https://fred.stlouisfed.org/series/WFRBST01110,https://fred.stlouisfed.org/categories/33001
+WFRBLN09027,Total Assets Held by the 90th to 99th Wealth Percentiles,https://fred.stlouisfed.org/series/WFRBLN09027,https://fred.stlouisfed.org/categories/33001
+JTSOSL,Other Separations: Total Nonfarm,https://fred.stlouisfed.org/series/JTSOSL,https://fred.stlouisfed.org/categories/32241
+JTSOSR,Rate,https://fred.stlouisfed.org/series/JTSOSR,https://fred.stlouisfed.org/categories/32241
+JTS1000OSL,Other Separations: Total Private,https://fred.stlouisfed.org/series/JTS1000OSL,https://fred.stlouisfed.org/categories/32241
+JTS1000OSR,Rate,https://fred.stlouisfed.org/series/JTS1000OSR,https://fred.stlouisfed.org/categories/32241
+JTS9000OSL,Other Separations: Government,https://fred.stlouisfed.org/series/JTS9000OSL,https://fred.stlouisfed.org/categories/32241
+JTS9000OSR,Rate,https://fred.stlouisfed.org/series/JTS9000OSR,https://fred.stlouisfed.org/categories/32241
+IHLIDXUSTPSOFTDEVE,Software Development Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUS,Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUS,https://fred.stlouisfed.org/categories/33509
+IHLIDXNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNSAUS,https://fred.stlouisfed.org/categories/33509
+IHLIDXNEWUS,New Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXNEWUS,https://fred.stlouisfed.org/categories/33509
+IHLIDXNEWNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNEWNSAUS,https://fred.stlouisfed.org/categories/33509
+FRBKCLMCILA,"KC Fed Labor Market Conditions Index, Level of Activity Indicator",https://fred.stlouisfed.org/series/FRBKCLMCILA,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPBAFI,Banking and Finance Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPBAFI,https://fred.stlouisfed.org/categories/33509
+IHLIDXCATPSOFTDEVE,Software Development Job Postings on Indeed in Canada,https://fred.stlouisfed.org/series/IHLIDXCATPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPITOPHE,IT Operations and Helpdesk Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPITOPHE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPCONS,Construction Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPCONS,https://fred.stlouisfed.org/categories/33509
+FRBKCLMCIM,"KC Fed Labor Market Conditions Index, Momentum Indicator",https://fred.stlouisfed.org/series/FRBKCLMCIM,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPMARK,Marketing Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPMARK,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPHOTO,Hospitality and Tourism Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPHOTO,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPACCO,Accounting Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPACCO,https://fred.stlouisfed.org/categories/33509
+IHLIDXDETPSOFTDEVE,Software Development Job Postings on Indeed in Germany,https://fred.stlouisfed.org/series/IHLIDXDETPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPRETA,Retail Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPRETA,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPNURS,Nursing Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPNURS,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPELECENGI,Electrical Engineering Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPELECENGI,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPHUMARESO,Human Resources Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPHUMARESO,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPSCREDE,Scientific Research and Development Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPSCREDE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPPRMA,Production and Manufacturing Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPPRMA,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPSALE,Sales Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPSALE,https://fred.stlouisfed.org/categories/33509
+IHLIDXGBTPSOFTDEVE,Software Development Job Postings on Indeed in the United Kingdom,https://fred.stlouisfed.org/series/IHLIDXGBTPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPPROJMANA,Project Management Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPPROJMANA,https://fred.stlouisfed.org/categories/33509
+DHIDFHVTUR,Vacancy to Unemployment Ratio (DISCONTINUED),https://fred.stlouisfed.org/series/DHIDFHVTUR,https://fred.stlouisfed.org/categories/33509
+IHLIDXAUTPSOFTDEVE,Software Development Job Postings on Indeed in Australia,https://fred.stlouisfed.org/series/IHLIDXAUTPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXDE,Job Postings on Indeed in Germany,https://fred.stlouisfed.org/series/IHLIDXDE,https://fred.stlouisfed.org/categories/33509
+IHLIDXNSADE,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNSADE,https://fred.stlouisfed.org/categories/33509
+IHLCHGNEWUS,New Job Postings on Indeed in the United States (DISCONTINUED),https://fred.stlouisfed.org/series/IHLCHGNEWUS,https://fred.stlouisfed.org/categories/33509
+IHLIDXCA,Job Postings on Indeed in Canada,https://fred.stlouisfed.org/series/IHLIDXCA,https://fred.stlouisfed.org/categories/33509
+IHLIDXNSACA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNSACA,https://fred.stlouisfed.org/categories/33509
+IHLIDXGB,Job Postings on Indeed in the United Kingdom,https://fred.stlouisfed.org/series/IHLIDXGB,https://fred.stlouisfed.org/categories/33509
+IHLIDXNSAGB,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNSAGB,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPINDUENGI,Industrial Engineering Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPINDUENGI,https://fred.stlouisfed.org/categories/33509
+IHLIDXAU,Job Postings on Indeed in Australia,https://fred.stlouisfed.org/series/IHLIDXAU,https://fred.stlouisfed.org/categories/33509
+IHLIDXNSAAU,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNSAAU,https://fred.stlouisfed.org/categories/33509
+IHLCHGUS,Job Postings on Indeed in the United States (DISCONTINUED),https://fred.stlouisfed.org/series/IHLCHGUS,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSCA,Job Postings on Indeed in California,https://fred.stlouisfed.org/series/IHLIDXUSCA,https://fred.stlouisfed.org/categories/33509
+IHLIDXFRTPSOFTDEVE,Software Development Job Postings on Indeed in France,https://fred.stlouisfed.org/series/IHLIDXFRTPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPCIVIENGI,Civil Engineering Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPCIVIENGI,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPDRIV,Driving Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPDRIV,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPFOPRSE,Food Preparation and Service Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPFOPRSE,https://fred.stlouisfed.org/categories/33509
+IHLIDXFR,Job Postings on Indeed in France,https://fred.stlouisfed.org/series/IHLIDXFR,https://fred.stlouisfed.org/categories/33509
+IHLIDXNSAFR,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IHLIDXNSAFR,https://fred.stlouisfed.org/categories/33509
+IHLCHGUSTPSOFTDEVE,Software Development Job Postings on Indeed in the United States (DISCONTINUED),https://fred.stlouisfed.org/series/IHLCHGUSTPSOFTDEVE,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSNY,Job Postings on Indeed in New York,https://fred.stlouisfed.org/series/IHLIDXUSNY,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPPHSU,Physicians and Surgeons Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPPHSU,https://fred.stlouisfed.org/categories/33509
+IHLIDX42660,"Job Postings on Indeed in Seattle-Tacoma-Bellevue, WA (MSA)",https://fred.stlouisfed.org/series/IHLIDX42660,https://fred.stlouisfed.org/categories/33509
+IHLIDX31080,"Job Postings on Indeed in Los Angeles-Long Beach-Anaheim, CA (MSA)",https://fred.stlouisfed.org/series/IHLIDX31080,https://fred.stlouisfed.org/categories/33509
+IHLIDXUSTPMANA,Management Job Postings on Indeed in the United States,https://fred.stlouisfed.org/series/IHLIDXUSTPMANA,https://fred.stlouisfed.org/categories/33509
+POPTHM,Population,https://fred.stlouisfed.org/series/POPTHM,https://fred.stlouisfed.org/categories/104
+B230RC0A052NBEA,Annual,https://fred.stlouisfed.org/series/B230RC0A052NBEA,https://fred.stlouisfed.org/categories/104
+B230RC0Q173SBEA,Quarterly,https://fred.stlouisfed.org/series/B230RC0Q173SBEA,https://fred.stlouisfed.org/categories/104
+LNU00074597,"Population - With a Disability, 16 Years and over",https://fred.stlouisfed.org/series/LNU00074597,https://fred.stlouisfed.org/categories/104
+TTLHHM156N,Household Estimates,https://fred.stlouisfed.org/series/TTLHHM156N,https://fred.stlouisfed.org/categories/104
+TTLHH,Total Households,https://fred.stlouisfed.org/series/TTLHH,https://fred.stlouisfed.org/categories/104
+POP,Total Population: All Ages including Armed Forces Overseas,https://fred.stlouisfed.org/series/POP,https://fred.stlouisfed.org/categories/104
+LNU00073395,Population Level - Foreign Born,https://fred.stlouisfed.org/series/LNU00073395,https://fred.stlouisfed.org/categories/104
+LNU00000060,Population Level - 25-54 Yrs.,https://fred.stlouisfed.org/series/LNU00000060,https://fred.stlouisfed.org/categories/104
+LNU00024230,Population Level - 55 Yrs. & over,https://fred.stlouisfed.org/series/LNU00024230,https://fred.stlouisfed.org/categories/104
+FMLWCUMC,Total Families with Children under 18 Years Old with Married Couple,https://fred.stlouisfed.org/series/FMLWCUMC,https://fred.stlouisfed.org/categories/104
+LNU00000012,Population Level - 16-19 Yrs.,https://fred.stlouisfed.org/series/LNU00000012,https://fred.stlouisfed.org/categories/104
+LNU00000036,Population Level - 20-24 Yrs.,https://fred.stlouisfed.org/series/LNU00000036,https://fred.stlouisfed.org/categories/104
+LNU00000002,Population Level - Women,https://fred.stlouisfed.org/series/LNU00000002,https://fred.stlouisfed.org/categories/104
+LNU00073413,Population Level - Native Born,https://fred.stlouisfed.org/series/LNU00073413,https://fred.stlouisfed.org/categories/104
+TTLFHH,Total Family Households,https://fred.stlouisfed.org/series/TTLFHH,https://fred.stlouisfed.org/categories/104
+FHHWMC,Family Households with Married Couples,https://fred.stlouisfed.org/series/FHHWMC,https://fred.stlouisfed.org/categories/104
+LNU00000006,Population Level - Black or African American,https://fred.stlouisfed.org/series/LNU00000006,https://fred.stlouisfed.org/categories/104
+POPH,National Population,https://fred.stlouisfed.org/series/POPH,https://fred.stlouisfed.org/categories/104
+LNU00000003,Population Level - White,https://fred.stlouisfed.org/series/LNU00000003,https://fred.stlouisfed.org/categories/104
+LNU00074593,"Population - With No Disability, 16 Years and over",https://fred.stlouisfed.org/series/LNU00074593,https://fred.stlouisfed.org/categories/104
+LNU00077884,"Population Level - Veterans, World War II or Korean War or Vietnam Era, 18 Years and over",https://fred.stlouisfed.org/series/LNU00077884,https://fred.stlouisfed.org/categories/104
+LNU00000001,Population Level - Men,https://fred.stlouisfed.org/series/LNU00000001,https://fred.stlouisfed.org/categories/104
+LNU00000009,Population Level - Hispanic or Latino,https://fred.stlouisfed.org/series/LNU00000009,https://fred.stlouisfed.org/categories/104
+TTLFMCU,Total Families with Children under 18 Years Old,https://fred.stlouisfed.org/series/TTLFMCU,https://fred.stlouisfed.org/categories/104
+LNU00049526,"Population Level - Total Veterans, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049526,https://fred.stlouisfed.org/categories/104
+OFHHFH,Family Households with Female Householder,https://fred.stlouisfed.org/series/OFHHFH,https://fred.stlouisfed.org/categories/104
+TTLNHH,Total Nonfamily Households,https://fred.stlouisfed.org/series/TTLNHH,https://fred.stlouisfed.org/categories/104
+LNU00032183,Population Level - Asian,https://fred.stlouisfed.org/series/LNU00032183,https://fred.stlouisfed.org/categories/104
+LNU00073396,"Population Level - Foreign Born, Men",https://fred.stlouisfed.org/series/LNU00073396,https://fred.stlouisfed.org/categories/104
+LNU00000025,"Population Level - 20 Yrs. & over, Men",https://fred.stlouisfed.org/series/LNU00000025,https://fred.stlouisfed.org/categories/104
+LNU00000026,"Population Level - 20 Yrs. & over, Women",https://fred.stlouisfed.org/series/LNU00000026,https://fred.stlouisfed.org/categories/104
+LNU00049527,"Population Level - Men, Total Veterans, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049527,https://fred.stlouisfed.org/categories/104
+LNU00073766,"Population Level - Women, Veterans, World War II or Korean War or Vietnam Era, 18 Years and over",https://fred.stlouisfed.org/series/LNU00073766,https://fred.stlouisfed.org/categories/104
+LNU00066408,"Population Level - Veterans, Gulf War Era II, 18 Years and over",https://fred.stlouisfed.org/series/LNU00066408,https://fred.stlouisfed.org/categories/104
+LNU00073414,"Population Level - Native Born, Men",https://fred.stlouisfed.org/series/LNU00073414,https://fred.stlouisfed.org/categories/104
+LNU00049601,"Population Level - Nonveterans, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049601,https://fred.stlouisfed.org/categories/104
+OPFWCUFO,Total One Parent Families with Children under 18 Years Old with Father,https://fred.stlouisfed.org/series/OPFWCUFO,https://fred.stlouisfed.org/categories/104
+LNU00073397,"Population Level - Foreign Born, Women",https://fred.stlouisfed.org/series/LNU00073397,https://fred.stlouisfed.org/categories/104
+OFHHMH,Family Households with Male Householder,https://fred.stlouisfed.org/series/OFHHMH,https://fred.stlouisfed.org/categories/104
+OPFWCUMO,Total One Parent Families with Children under 18 Years Old with Mother,https://fred.stlouisfed.org/series/OPFWCUMO,https://fred.stlouisfed.org/categories/104
+TTLOPFWCU,Total One Parent Families with Children under 18 Years Old,https://fred.stlouisfed.org/series/TTLOPFWCU,https://fred.stlouisfed.org/categories/104
+LNU00073415,"Population Level - Native Born, Women",https://fred.stlouisfed.org/series/LNU00073415,https://fred.stlouisfed.org/categories/104
+LNU00049528,"Population Level - Women, Total Veterans, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049528,https://fred.stlouisfed.org/categories/104
+LNU00049586,"Population Level - Veterans, Other Service Periods, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049586,https://fred.stlouisfed.org/categories/104
+LNU00049602,"Population Level - Men, Nonveterans, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049602,https://fred.stlouisfed.org/categories/104
+LNU00049588,"Population Level - Women, Veterans, Other Service Periods, 18 Years and over",https://fred.stlouisfed.org/series/LNU00049588,https://fred.stlouisfed.org/categories/104
+NFHHFH,Nonfamily Households with Female Householder,https://fred.stlouisfed.org/series/NFHHFH,https://fred.stlouisfed.org/categories/104
+NFHHMH,Nonfamily Households with Male Householder,https://fred.stlouisfed.org/series/NFHHMH,https://fred.stlouisfed.org/categories/104
+STTMINWGOH,State Minimum Wage Rate for Ohio,https://fred.stlouisfed.org/series/STTMINWGOH,https://fred.stlouisfed.org/categories/33831
+STTMINWGMA,State Minimum Wage Rate for Massachusetts,https://fred.stlouisfed.org/series/STTMINWGMA,https://fred.stlouisfed.org/categories/33831
+STTMINWGTX,State Minimum Wage Rate for Texas,https://fred.stlouisfed.org/series/STTMINWGTX,https://fred.stlouisfed.org/categories/33831
+STTMINWGMI,State Minimum Wage Rate for Michigan,https://fred.stlouisfed.org/series/STTMINWGMI,https://fred.stlouisfed.org/categories/33831
+STTMINWGCA,State Minimum Wage Rate for California,https://fred.stlouisfed.org/series/STTMINWGCA,https://fred.stlouisfed.org/categories/33831
+STTMINWGVA,State Minimum Wage Rate for Virginia,https://fred.stlouisfed.org/series/STTMINWGVA,https://fred.stlouisfed.org/categories/33831
+STTMINWGAZ,State Minimum Wage Rate for Arizona,https://fred.stlouisfed.org/series/STTMINWGAZ,https://fred.stlouisfed.org/categories/33831
+STTMINWGNJ,State Minimum Wage Rate for New Jersey,https://fred.stlouisfed.org/series/STTMINWGNJ,https://fred.stlouisfed.org/categories/33831
+STTMINWGMD,State Minimum Wage Rate for Maryland,https://fred.stlouisfed.org/series/STTMINWGMD,https://fred.stlouisfed.org/categories/33831
+STTMINWGPA,State Minimum Wage Rate for Pennsylvania,https://fred.stlouisfed.org/series/STTMINWGPA,https://fred.stlouisfed.org/categories/33831
+STTMINWGNC,State Minimum Wage Rate for North Carolina,https://fred.stlouisfed.org/series/STTMINWGNC,https://fred.stlouisfed.org/categories/33831
+STTMINWGCO,State Minimum Wage Rate for Colorado,https://fred.stlouisfed.org/series/STTMINWGCO,https://fred.stlouisfed.org/categories/33831
+STTMINWGMO,State Minimum Wage Rate for Missouri,https://fred.stlouisfed.org/series/STTMINWGMO,https://fred.stlouisfed.org/categories/33831
+STTMINWGFG,Federal Minimum Wage Rate under the Federal Fair Labor Standards Act,https://fred.stlouisfed.org/series/STTMINWGFG,https://fred.stlouisfed.org/categories/33831
+STTMINWGMN,State Minimum Wage Rate for Minnesota,https://fred.stlouisfed.org/series/STTMINWGMN,https://fred.stlouisfed.org/categories/33831
+STTMINWGGA,State Minimum Wage Rate for Georgia,https://fred.stlouisfed.org/series/STTMINWGGA,https://fred.stlouisfed.org/categories/33831
+STTMINWGGAM,Monthly,https://fred.stlouisfed.org/series/STTMINWGGAM,https://fred.stlouisfed.org/categories/33831
+STTMINWGAR,State Minimum Wage Rate for Arkansas,https://fred.stlouisfed.org/series/STTMINWGAR,https://fred.stlouisfed.org/categories/33831
+STTMINWGFL,State Minimum Wage Rate for Florida,https://fred.stlouisfed.org/series/STTMINWGFL,https://fred.stlouisfed.org/categories/33831
+STTMINWGNM,State Minimum Wage Rate for New Mexico,https://fred.stlouisfed.org/series/STTMINWGNM,https://fred.stlouisfed.org/categories/33831
+STTMINWGCT,State Minimum Wage Rate for Connecticut,https://fred.stlouisfed.org/series/STTMINWGCT,https://fred.stlouisfed.org/categories/33831
+STTMINWGOK,State Minimum Wage Rate for Oklahoma,https://fred.stlouisfed.org/series/STTMINWGOK,https://fred.stlouisfed.org/categories/33831
+STTMINWGUT,State Minimum Wage Rate for Utah,https://fred.stlouisfed.org/series/STTMINWGUT,https://fred.stlouisfed.org/categories/33831
+STTMINWGIL,State Minimum Wage Rate for Illinois,https://fred.stlouisfed.org/series/STTMINWGIL,https://fred.stlouisfed.org/categories/33831
+STTMINWGNY,State Minimum Wage Rate for New York,https://fred.stlouisfed.org/series/STTMINWGNY,https://fred.stlouisfed.org/categories/33831
+STTMINWGKY,State Minimum Wage Rate for Kentucky,https://fred.stlouisfed.org/series/STTMINWGKY,https://fred.stlouisfed.org/categories/33831
+STTMINWGGU,State Minimum Wage Rate for Guam,https://fred.stlouisfed.org/series/STTMINWGGU,https://fred.stlouisfed.org/categories/33831
+STTMINWGRI,State Minimum Wage Rate for Rhode Island,https://fred.stlouisfed.org/series/STTMINWGRI,https://fred.stlouisfed.org/categories/33831
+STTMINWGIN,State Minimum Wage Rate for Indiana,https://fred.stlouisfed.org/series/STTMINWGIN,https://fred.stlouisfed.org/categories/33831
+STTMINWGNV,State Minimum Wage Rate for Nevada,https://fred.stlouisfed.org/series/STTMINWGNV,https://fred.stlouisfed.org/categories/33831
+STTMINWGNH,State Minimum Wage Rate for New Hampshire,https://fred.stlouisfed.org/series/STTMINWGNH,https://fred.stlouisfed.org/categories/33831
+STTMINWGNE,State Minimum Wage Rate for Nebraska,https://fred.stlouisfed.org/series/STTMINWGNE,https://fred.stlouisfed.org/categories/33831
+STTMINWGIA,State Minimum Wage Rate for Iowa,https://fred.stlouisfed.org/series/STTMINWGIA,https://fred.stlouisfed.org/categories/33831
+STTMINWGID,State Minimum Wage Rate for Idaho,https://fred.stlouisfed.org/series/STTMINWGID,https://fred.stlouisfed.org/categories/33831
+STTMINWGPR,State Minimum Wage Rate for Puerto Rico,https://fred.stlouisfed.org/series/STTMINWGPR,https://fred.stlouisfed.org/categories/33831
+STTMINWGOR,State Minimum Wage Rate for Oregon,https://fred.stlouisfed.org/series/STTMINWGOR,https://fred.stlouisfed.org/categories/33831
+STTMINWGWA,State Minimum Wage Rate for Washington,https://fred.stlouisfed.org/series/STTMINWGWA,https://fred.stlouisfed.org/categories/33831
+STTMINWGSD,State Minimum Wage Rate for South Dakota,https://fred.stlouisfed.org/series/STTMINWGSD,https://fred.stlouisfed.org/categories/33831
+STTMINWGAK,State Minimum Wage Rate for Alaska,https://fred.stlouisfed.org/series/STTMINWGAK,https://fred.stlouisfed.org/categories/33831
+STTMINWGWI,State Minimum Wage Rate for Wisconsin,https://fred.stlouisfed.org/series/STTMINWGWI,https://fred.stlouisfed.org/categories/33831
+STTMINWGKS,State Minimum Wage Rate for Kansas,https://fred.stlouisfed.org/series/STTMINWGKS,https://fred.stlouisfed.org/categories/33831
+STTMINWGDC,State Minimum Wage Rate for District of Columbia,https://fred.stlouisfed.org/series/STTMINWGDC,https://fred.stlouisfed.org/categories/33831
+STTMINWGDE,State Minimum Wage Rate for Delaware,https://fred.stlouisfed.org/series/STTMINWGDE,https://fred.stlouisfed.org/categories/33831
+STTMINWGVT,State Minimum Wage Rate for Vermont,https://fred.stlouisfed.org/series/STTMINWGVT,https://fred.stlouisfed.org/categories/33831
+STTMINWGWV,State Minimum Wage Rate for West Virginia,https://fred.stlouisfed.org/series/STTMINWGWV,https://fred.stlouisfed.org/categories/33831
+STTMINWGHI,State Minimum Wage Rate for Hawaii,https://fred.stlouisfed.org/series/STTMINWGHI,https://fred.stlouisfed.org/categories/33831
+STTMINWGME,State Minimum Wage Rate for Maine,https://fred.stlouisfed.org/series/STTMINWGME,https://fred.stlouisfed.org/categories/33831
+STTMINWGND,State Minimum Wage Rate for North Dakota,https://fred.stlouisfed.org/series/STTMINWGND,https://fred.stlouisfed.org/categories/33831
+STTMINWGMT,State Minimum Wage Rate for Montana,https://fred.stlouisfed.org/series/STTMINWGMT,https://fred.stlouisfed.org/categories/33831
+STTMINWGVI,State Minimum Wage Rate for U.S. Virgin Islands,https://fred.stlouisfed.org/series/STTMINWGVI,https://fred.stlouisfed.org/categories/33831
+ICSA,Initial Claims,https://fred.stlouisfed.org/series/ICSA,https://fred.stlouisfed.org/categories/32240
+ICNSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/ICNSA,https://fred.stlouisfed.org/categories/32240
+CCSA,Continued Claims (Insured Unemployment),https://fred.stlouisfed.org/series/CCSA,https://fred.stlouisfed.org/categories/32240
+CCNSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/CCNSA,https://fred.stlouisfed.org/categories/32240
+IC4WSA,4-Week Moving Average of Initial Claims,https://fred.stlouisfed.org/series/IC4WSA,https://fred.stlouisfed.org/categories/32240
+CC4WSA,4-Week Moving Average of Continued Claims (Insured Unemployment),https://fred.stlouisfed.org/series/CC4WSA,https://fred.stlouisfed.org/categories/32240
+IURSA,Insured Unemployment Rate,https://fred.stlouisfed.org/series/IURSA,https://fred.stlouisfed.org/categories/32240
+IURNSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/IURNSA,https://fred.stlouisfed.org/categories/32240
+COVEMP,Covered Employment,https://fred.stlouisfed.org/series/COVEMP,https://fred.stlouisfed.org/categories/32240
+PRICCLAIMS,Continued Claims (Insured Unemployment) in Puerto Rico,https://fred.stlouisfed.org/series/PRICCLAIMS,https://fred.stlouisfed.org/categories/32240
+VIRCCLAIMS,Continued Claims (Insured Unemployment) in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/VIRCCLAIMS,https://fred.stlouisfed.org/categories/32240
+PRIICLAIMS,Initial Claims in Puerto Rico,https://fred.stlouisfed.org/series/PRIICLAIMS,https://fred.stlouisfed.org/categories/32240
+VIRICLAIMS,Initial Claims in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/VIRICLAIMS,https://fred.stlouisfed.org/categories/32240
+PRIINSUREDUR,Insured Unemployment Rate in Puerto Rico,https://fred.stlouisfed.org/series/PRIINSUREDUR,https://fred.stlouisfed.org/categories/32240
+PUAICPR,Pandemic Unemployment Assistance Initial Claims in Puerto Rico,https://fred.stlouisfed.org/series/PUAICPR,https://fred.stlouisfed.org/categories/32240
+VIRINSUREDUR,Insured Unemployment Rate in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/VIRINSUREDUR,https://fred.stlouisfed.org/categories/32240
+PUACCPR,Pandemic Unemployment Assistance Continued Claims in Puerto Rico,https://fred.stlouisfed.org/series/PUACCPR,https://fred.stlouisfed.org/categories/32240
+PRICEMPLOY,Covered Employment in Puerto Rico,https://fred.stlouisfed.org/series/PRICEMPLOY,https://fred.stlouisfed.org/categories/32240
+PUAICVI,Pandemic Unemployment Assistance Initial Claims in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/PUAICVI,https://fred.stlouisfed.org/categories/32240
+VIRCEMPLOY,Covered Employment in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/VIRCEMPLOY,https://fred.stlouisfed.org/categories/32240
+PUACCVI,Pandemic Unemployment Assistance Continued Claims in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/PUACCVI,https://fred.stlouisfed.org/categories/32240
+PEUCCCPR,Pandemic Emergency Unemployment Compensation Continued Claims in Puerto Rico,https://fred.stlouisfed.org/series/PEUCCCPR,https://fred.stlouisfed.org/categories/32240
+PEUCCCVI,Pandemic Emergency Unemployment Compensation Continued Claims in the U.S. Virgin Islands,https://fred.stlouisfed.org/series/PEUCCCVI,https://fred.stlouisfed.org/categories/32240
+IITTRHB,U.S Individual Income Tax: Tax Rates for Regular Tax: Highest Bracket,https://fred.stlouisfed.org/series/IITTRHB,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3CANO,State Tax Collections: Total Taxes for California,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3CANO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT1USYES,National Totals of State and Local Tax Revenue: Total Taxes for the United States,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT1USYES,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT1USNO,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT1USNO,https://fred.stlouisfed.org/categories/33731
+IITTRLB,U.S Individual Income Tax: Tax Rates for Regular Tax: Lowest Bracket,https://fred.stlouisfed.org/series/IITTRLB,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3FLNO,State Tax Collections: Total Taxes for Florida,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3FLNO,https://fred.stlouisfed.org/categories/33731
+TLINCTX,Individual Income Tax Filing: Total Income Tax,https://fred.stlouisfed.org/series/TLINCTX,https://fred.stlouisfed.org/categories/33731
+TLINCTXA,Thousands of U.S. Dollars,https://fred.stlouisfed.org/series/TLINCTXA,https://fred.stlouisfed.org/categories/33731
+QTAXT01QTAXCAT1USYES,National Totals of State and Local Tax Revenue: T01 Property Taxes for the United States,https://fred.stlouisfed.org/series/QTAXT01QTAXCAT1USYES,https://fred.stlouisfed.org/categories/33731
+QTAXT01QTAXCAT1USNO,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/QTAXT01QTAXCAT1USNO,https://fred.stlouisfed.org/categories/33731
+AGEXMMO29A647NCEN,Age 65 and Over Tax Exemptions for Missouri,https://fred.stlouisfed.org/series/AGEXMMO29A647NCEN,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3TXNO,State Tax Collections: Total Taxes for Texas,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3TXNO,https://fred.stlouisfed.org/categories/33731
+MEDAGIFL12A052NCEN,Median Adjusted Gross Income for Florida,https://fred.stlouisfed.org/series/MEDAGIFL12A052NCEN,https://fred.stlouisfed.org/categories/33731
+AGEXMAZ4A647NCEN,Age 65 and Over Tax Exemptions for Arizona,https://fred.stlouisfed.org/series/AGEXMAZ4A647NCEN,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3ILNO,State Tax Collections: Total Taxes for Illinois,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3ILNO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3CONO,State Tax Collections: Total Taxes for Colorado,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3CONO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3MANO,State Tax Collections: Total Taxes for Massachusetts,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3MANO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3AZNO,State Tax Collections: Total Taxes for Arizona,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3AZNO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3MONO,State Tax Collections: Total Taxes for Missouri,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3MONO,https://fred.stlouisfed.org/categories/33731
+MEDAGICA6A052NCEN,Median Adjusted Gross Income for California,https://fred.stlouisfed.org/series/MEDAGICA6A052NCEN,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3NYNO,State Tax Collections: Total Taxes for New York,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3NYNO,https://fred.stlouisfed.org/categories/33731
+NCGAGI,Individual Income Tax Filing: Net Capital Gain in Adjusted Gross Income (AGI),https://fred.stlouisfed.org/series/NCGAGI,https://fred.stlouisfed.org/categories/33731
+NCGAGIA,Thousands of U.S. Dollars,https://fred.stlouisfed.org/series/NCGAGIA,https://fred.stlouisfed.org/categories/33731
+TXPMTITWA,Individual Income Tax Filing: Tax Payments: Income Tax Withheld,https://fred.stlouisfed.org/series/TXPMTITWA,https://fred.stlouisfed.org/categories/33731
+TXPMTITW,Number of Returns,https://fred.stlouisfed.org/series/TXPMTITW,https://fred.stlouisfed.org/categories/33731
+AGEXMOK40A647NCEN,Age 65 and Over Tax Exemptions for Oklahoma,https://fred.stlouisfed.org/series/AGEXMOK40A647NCEN,https://fred.stlouisfed.org/categories/33731
+QTAXT09QTAXCAT1USYES,National Totals of State and Local Tax Revenue: T09 General Sales and Gross Receipts Taxes for the United States,https://fred.stlouisfed.org/series/QTAXT09QTAXCAT1USYES,https://fred.stlouisfed.org/categories/33731
+QTAXT09QTAXCAT1USNO,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/QTAXT09QTAXCAT1USNO,https://fred.stlouisfed.org/categories/33731
+ODNDIVA,Individual Income Tax Filing: Adjusted Gross Income (AGI): Ordinary Dividends,https://fred.stlouisfed.org/series/ODNDIVA,https://fred.stlouisfed.org/categories/33731
+ODNDIV,Number of Returns,https://fred.stlouisfed.org/series/ODNDIV,https://fred.stlouisfed.org/categories/33731
+QTAXT99QTAXCAT3GANO,"State Tax Collections: T99 Taxes, Not Elsewhere Classified for Georgia",https://fred.stlouisfed.org/series/QTAXT99QTAXCAT3GANO,https://fred.stlouisfed.org/categories/33731
+SLITDDA,Individual Income Tax Filing: Statutory Adjustments: Student Loan Interest Deduction,https://fred.stlouisfed.org/series/SLITDDA,https://fred.stlouisfed.org/categories/33731
+SLITDD,Number of Returns,https://fred.stlouisfed.org/series/SLITDD,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3OHNO,State Tax Collections: Total Taxes for Ohio,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3OHNO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3MENO,State Tax Collections: Total Taxes for Maine,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3MENO,https://fred.stlouisfed.org/categories/33731
+MEDAGIMN27A052NCEN,Median Adjusted Gross Income for Minnesota,https://fred.stlouisfed.org/series/MEDAGIMN27A052NCEN,https://fred.stlouisfed.org/categories/33731
+TXPMTTL,"Individual Income Tax Filing: Tax Payments, Total",https://fred.stlouisfed.org/series/TXPMTTL,https://fred.stlouisfed.org/categories/33731
+TXPMTTLA,Thousands of U.S. Dollars,https://fred.stlouisfed.org/series/TXPMTTLA,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3USNO,State Tax Collections: Total Taxes for the United States,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3USNO,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3NJNO,State Tax Collections: Total Taxes for New Jersey,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3NJNO,https://fred.stlouisfed.org/categories/33731
+QTAXT23QTAXCAT3IANO,State Tax Collections: T23 Hunting and Fishing License for Iowa,https://fred.stlouisfed.org/series/QTAXT23QTAXCAT3IANO,https://fred.stlouisfed.org/categories/33731
+IITTIHB,U.S Individual Income Tax: Taxable Income Boundary Over which the Highest Tax Rate Bracket Applies,https://fred.stlouisfed.org/series/IITTIHB,https://fred.stlouisfed.org/categories/33731
+IMZDCTCA,Individual Income Tax Filing: Itemized Deductions: Charitable Contributions,https://fred.stlouisfed.org/series/IMZDCTCA,https://fred.stlouisfed.org/categories/33731
+IMZDCTC,Number of Returns,https://fred.stlouisfed.org/series/IMZDCTC,https://fred.stlouisfed.org/categories/33731
+AGEXMNM35A647NCEN,Age 65 and Over Tax Exemptions for New Mexico,https://fred.stlouisfed.org/series/AGEXMNM35A647NCEN,https://fred.stlouisfed.org/categories/33731
+MEANAGITX48A052NCEN,Mean Adjusted Gross Income for Texas,https://fred.stlouisfed.org/series/MEANAGITX48A052NCEN,https://fred.stlouisfed.org/categories/33731
+QTAXTOTALQTAXCAT3WINO,State Tax Collections: Total Taxes for Wisconsin,https://fred.stlouisfed.org/series/QTAXTOTALQTAXCAT3WINO,https://fred.stlouisfed.org/categories/33731
+NCLIAGIA,Individual Income Tax Filing: Net Capital Loss in Adjusted Gross Income (AGI),https://fred.stlouisfed.org/series/NCLIAGIA,https://fred.stlouisfed.org/categories/33731
+NCLIAGI,Number of Returns,https://fred.stlouisfed.org/series/NCLIAGI,https://fred.stlouisfed.org/categories/33731
+QTAXT99QTAXCAT3VTNO,"State Tax Collections: T99 Taxes, Not Elsewhere Classified for Vermont",https://fred.stlouisfed.org/series/QTAXT99QTAXCAT3VTNO,https://fred.stlouisfed.org/categories/33731
+RGMPUSMP,Total Real Gross Domestic Product for United States Metropolitan Portion,https://fred.stlouisfed.org/series/RGMPUSMP,https://fred.stlouisfed.org/categories/32992
+NGMPUSMP,Total Gross Domestic Product for United States Metropolitan Portion,https://fred.stlouisfed.org/series/NGMPUSMP,https://fred.stlouisfed.org/categories/32992
+PCRGMPUSMP,Total Per Capita Real GDP United States Metropolitan Portion (DISCONTINUED),https://fred.stlouisfed.org/series/PCRGMPUSMP,https://fred.stlouisfed.org/categories/32992
+QGMPUSMP,Total Quantity Indexes for Real GDP for United States Metropolitan Portion,https://fred.stlouisfed.org/series/QGMPUSMP,https://fred.stlouisfed.org/categories/32992
+FYGDP,Gross Domestic Product,https://fred.stlouisfed.org/series/FYGDP,https://fred.stlouisfed.org/categories/5
+GFDEGDQ188S,Federal Debt: Total Public Debt as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/GFDEGDQ188S,https://fred.stlouisfed.org/categories/5
+GFDEBTN,Federal Debt: Total Public Debt,https://fred.stlouisfed.org/series/GFDEBTN,https://fred.stlouisfed.org/categories/5
+FYFSD,Federal Surplus or Deficit [-],https://fred.stlouisfed.org/series/FYFSD,https://fred.stlouisfed.org/categories/5
+MTSDS133FMS,Monthly,https://fred.stlouisfed.org/series/MTSDS133FMS,https://fred.stlouisfed.org/categories/5
+FYFSGDA188S,Federal Surplus or Deficit [-] as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/FYFSGDA188S,https://fred.stlouisfed.org/categories/5
+FYFSDFYGDP,"Percent of GDP, Annual, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/FYFSDFYGDP,https://fred.stlouisfed.org/categories/5
+GFDGDPA188S,Gross Federal Debt as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/GFDGDPA188S,https://fred.stlouisfed.org/categories/5
+FYONGDA188S,Federal Net Outlays as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/FYONGDA188S,https://fred.stlouisfed.org/categories/5
+FYOIGDA188S,Federal Outlays: Interest as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/FYOIGDA188S,https://fred.stlouisfed.org/categories/5
+FYFRGDA188S,Federal Receipts as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/FYFRGDA188S,https://fred.stlouisfed.org/categories/5
+FDHBFRBN,Federal Debt Held by Federal Reserve Banks,https://fred.stlouisfed.org/series/FDHBFRBN,https://fred.stlouisfed.org/categories/5
+FDHBFIN,Federal Debt Held by Foreign and International Investors,https://fred.stlouisfed.org/series/FDHBFIN,https://fred.stlouisfed.org/categories/5
+FYGFD,Gross Federal Debt,https://fred.stlouisfed.org/series/FYGFD,https://fred.stlouisfed.org/categories/5
+FYGFDPUN,Federal Debt Held by the Public,https://fred.stlouisfed.org/series/FYGFDPUN,https://fred.stlouisfed.org/categories/5
+FYGFGDQ188S,Federal Debt Held by the Public as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/FYGFGDQ188S,https://fred.stlouisfed.org/categories/5
+MVMTD027MNFRBDAL,Market Value of Marketable Treasury Debt,https://fred.stlouisfed.org/series/MVMTD027MNFRBDAL,https://fred.stlouisfed.org/categories/5
+FYOINT,Federal Outlays: Interest,https://fred.stlouisfed.org/series/FYOINT,https://fred.stlouisfed.org/categories/5
+MTSO133FMS,Total Federal Outlays,https://fred.stlouisfed.org/series/MTSO133FMS,https://fred.stlouisfed.org/categories/5
+FYFR,Federal Receipts,https://fred.stlouisfed.org/series/FYFR,https://fred.stlouisfed.org/categories/5
+FDHBPIN,Federal Debt Held by Private Investors,https://fred.stlouisfed.org/series/FDHBPIN,https://fred.stlouisfed.org/categories/5
+FYONET,Federal Net Outlays,https://fred.stlouisfed.org/series/FYONET,https://fred.stlouisfed.org/categories/5
+MTSR133FMS,Total Federal Receipts,https://fred.stlouisfed.org/series/MTSR133FMS,https://fred.stlouisfed.org/categories/5
+MVGFD027MNFRBDAL,Market Value of Gross Federal Debt,https://fred.stlouisfed.org/series/MVGFD027MNFRBDAL,https://fred.stlouisfed.org/categories/5
+FYPUGDA188S,Gross Federal Debt Held by the Public as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/FYPUGDA188S,https://fred.stlouisfed.org/categories/5
+HBFIGDQ188S,Federal Debt Held by Foreign and International Investors as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/HBFIGDQ188S,https://fred.stlouisfed.org/categories/5
+HBFRGDQ188S,Federal Debt Held by Federal Reserve Banks as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/HBFRGDQ188S,https://fred.stlouisfed.org/categories/5
+HBPIGDQ188S,Federal Debt Held by Private Investors as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/HBPIGDQ188S,https://fred.stlouisfed.org/categories/5
+FYGFDPUB,Gross Federal Debt Held by the Public,https://fred.stlouisfed.org/series/FYGFDPUB,https://fred.stlouisfed.org/categories/5
+MTSMFBP133FMS,Means of Financing: Borrowing from the Public,https://fred.stlouisfed.org/series/MTSMFBP133FMS,https://fred.stlouisfed.org/categories/5
+FDHBATN,Federal Debt Held by Agencies and Trusts,https://fred.stlouisfed.org/series/FDHBATN,https://fred.stlouisfed.org/categories/5
+MVPHGFD027MNFRBDAL,Market Value of Privately Held Gross Federal Debt,https://fred.stlouisfed.org/series/MVPHGFD027MNFRBDAL,https://fred.stlouisfed.org/categories/5
+MTSMFBOM133FMS,Means of Financing: by Other Means,https://fred.stlouisfed.org/series/MTSMFBOM133FMS,https://fred.stlouisfed.org/categories/5
+HBATGDQ188S,Federal Debt Held by Agencies and Trusts as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/HBATGDQ188S,https://fred.stlouisfed.org/categories/5
+MTSMFROC133FMS,"Means of Financing: Reduction of Operating Cash, Increase (-)",https://fred.stlouisfed.org/series/MTSMFROC133FMS,https://fred.stlouisfed.org/categories/5
+FDHBFI,Federal Debt Held by Foreign Investors (DISCONTINUED),https://fred.stlouisfed.org/series/FDHBFI,https://fred.stlouisfed.org/categories/5
+NFDEBT,Federal Government Debt: Net (DISCONTINUED),https://fred.stlouisfed.org/series/NFDEBT,https://fred.stlouisfed.org/categories/5
+FDHBFRB,Federal Debt Held by Federal Reserve Banks (DISCONTINUED),https://fred.stlouisfed.org/series/FDHBFRB,https://fred.stlouisfed.org/categories/5
+GFDEBT,Federal Government Debt: Gross (DISCONTINUED),https://fred.stlouisfed.org/series/GFDEBT,https://fred.stlouisfed.org/categories/5
+FDHBAT,Federal Debt Held by Agencies and Trust (DISCONTINUED),https://fred.stlouisfed.org/series/FDHBAT,https://fred.stlouisfed.org/categories/5
+FDHBPI,Federal Debt Held by Private Investors (DISCONTINUED),https://fred.stlouisfed.org/series/FDHBPI,https://fred.stlouisfed.org/categories/5
+BOGZ1FL192090005Q,"Households; Net Worth, Level",https://fred.stlouisfed.org/series/BOGZ1FL192090005Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL192090005A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL192090005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL193020005Q,"Households; Checkable Deposits and Currency; Asset, Level",https://fred.stlouisfed.org/series/BOGZ1FL193020005Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL193020005A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL193020005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL075035503Q,"Interest Rates and Price Indexes; Commercial Real Estate Price Index, Level",https://fred.stlouisfed.org/series/BOGZ1FL075035503Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL075035503A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL075035503A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL104104005A,"Nonfinancial Corporate Business; Debt Securities and Loans; Liability, Level",https://fred.stlouisfed.org/series/BOGZ1FL104104005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1LA104104005A,Seasonally Adjusted,https://fred.stlouisfed.org/series/BOGZ1LA104104005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL155035065A,"Households; Owners' Equity in Real Estate, Level",https://fred.stlouisfed.org/series/BOGZ1FL155035065A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL894104005A,"All Sectors; Debt Securities and Loans; Liability, Level",https://fred.stlouisfed.org/series/BOGZ1FL894104005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL073161113Q,"Interest Rates and Price Indexes; 10-Year Treasury Yield, Level",https://fred.stlouisfed.org/series/BOGZ1FL073161113Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL073161113A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL073161113A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL403069330Q,"Government-Sponsored Enterprises; FHLB Advances; Asset, Level",https://fred.stlouisfed.org/series/BOGZ1FL403069330Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL403069330A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL403069330A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL153064486Q,"Households and Nonprofit Organizations; Directly and Indirectly Held Corporate Equities as a Percentage of Financial Assets; Assets, Level",https://fred.stlouisfed.org/series/BOGZ1FL153064486Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL153064486A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL153064486A,https://fred.stlouisfed.org/categories/32251
+BOGZ1LA153166000A,"Households and Nonprofit Organizations; Consumer Credit; Liability, Level",https://fred.stlouisfed.org/series/BOGZ1LA153166000A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FA895050005Q,"All Sectors; Total Capital Expenditures, Transactions",https://fred.stlouisfed.org/series/BOGZ1FA895050005Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FA895050005A,"Annual, Seasonally Adjusted Annual Rate",https://fred.stlouisfed.org/series/BOGZ1FA895050005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU895050005A,"Annual, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/BOGZ1FU895050005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU895050005Q,"Quarterly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/BOGZ1FU895050005Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL632051103Q,"Money Market Funds; Security Repurchase Agreements (Federal Reserve Reverse Repurchase Agreement Operations); Asset, Level",https://fred.stlouisfed.org/series/BOGZ1FL632051103Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL632051103A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL632051103A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL075035403Q,"Interest Rates and Price Indexes; Multi-Family Real Estate Apartment Price Index, Level",https://fred.stlouisfed.org/series/BOGZ1FL075035403Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL075035403A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL075035403A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL104104016A,"Nonfinancial Corporate Business; Debt as a Percentage of the Market Value of Corporate Equities, Level",https://fred.stlouisfed.org/series/BOGZ1FL104104016A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL072052006Q,"Interest Rates and Price Indexes; Effective Federal Funds Rate (Percent), Level",https://fred.stlouisfed.org/series/BOGZ1FL072052006Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL072052006A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL072052006A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL152090006A,"Households and Nonprofit Organizations; Net Worth as a Percentage of Disposable Personal Income, Level",https://fred.stlouisfed.org/series/BOGZ1FL152090006A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL663067003Q,"Security Brokers and Dealers; Receivables Due from Customers (Margin Loans and Other Receivables); Asset, Level",https://fred.stlouisfed.org/series/BOGZ1FL663067003Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL663067003A,Annual,https://fred.stlouisfed.org/series/BOGZ1FL663067003A,https://fred.stlouisfed.org/categories/32251
+BOGZ1LA154104005A,"Households and Nonprofit Organizations; Debt Securities and Loans; Liability, Level",https://fred.stlouisfed.org/series/BOGZ1LA154104005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL154104005A,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BOGZ1FL154104005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU634090005Q,"Money Market Funds; Total Financial Assets, Transactions",https://fred.stlouisfed.org/series/BOGZ1FU634090005Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU634090005A,Annual,https://fred.stlouisfed.org/series/BOGZ1FU634090005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU263092001Q,"Rest of the World; Foreign Direct Investment in U.S.; Asset (Current Cost), Transactions",https://fred.stlouisfed.org/series/BOGZ1FU263092001Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU263092001A,Annual,https://fred.stlouisfed.org/series/BOGZ1FU263092001A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FA713068703Q,"Monetary Authority; Loans to Domestic Banks Through the Discount Window; Asset, Transactions",https://fred.stlouisfed.org/series/BOGZ1FA713068703Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU713068703Q,"Quarterly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/BOGZ1FU713068703Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU713068703A,"Annual, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/BOGZ1FU713068703A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FA713068703A,"Annual, Seasonally Adjusted Annual Rate",https://fred.stlouisfed.org/series/BOGZ1FA713068703A,https://fred.stlouisfed.org/categories/32251
+BOGZ1LA153165105A,"Households and Nonprofit Organizations; One-to-Four-Family Residential Mortgages; Liability, Level",https://fred.stlouisfed.org/series/BOGZ1LA153165105A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL153165105A,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BOGZ1FL153165105A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL893065005A,"All Sectors; Total Mortgages; Asset, Level",https://fred.stlouisfed.org/series/BOGZ1FL893065005A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FA106130003Q,"Nonfinancial Corporate Business; Net Interest and Miscellaneous Payments, Transactions",https://fred.stlouisfed.org/series/BOGZ1FA106130003Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FA106130003A,"Annual, Seasonally Adjusted Annual Rate",https://fred.stlouisfed.org/series/BOGZ1FA106130003A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU106130003Q,"Quarterly, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/BOGZ1FU106130003Q,https://fred.stlouisfed.org/categories/32251
+BOGZ1FU106130003A,"Annual, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/BOGZ1FU106130003A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL155035066A,"Households; Owners' Equity in Real Estate as a Percentage of Household Real Estate, Level",https://fred.stlouisfed.org/series/BOGZ1FL155035066A,https://fred.stlouisfed.org/categories/32251
+BOGZ1FL102090005A,"Nonfinancial Corporate Business; Net Worth, Level",https://fred.stlouisfed.org/series/BOGZ1FL102090005A,https://fred.stlouisfed.org/categories/32251
+ISRATIO,Total Business: Inventories to Sales Ratio,https://fred.stlouisfed.org/series/ISRATIO,https://fred.stlouisfed.org/categories/1
+TOTBUSIRNSA,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/TOTBUSIRNSA,https://fred.stlouisfed.org/categories/1
+BUSINV,Total Business Inventories,https://fred.stlouisfed.org/series/BUSINV,https://fred.stlouisfed.org/categories/1
+TOTBUSMPCIMSA,"Percent Change, Seasonally Adjusted",https://fred.stlouisfed.org/series/TOTBUSMPCIMSA,https://fred.stlouisfed.org/categories/1
+TOTBUSIMNSA,"Millions of Dollars, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/TOTBUSIMNSA,https://fred.stlouisfed.org/categories/1
+TOTBUSMPCIMNSA,"Percent Change, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/TOTBUSMPCIMNSA,https://fred.stlouisfed.org/categories/1
+BABANAICSRETSAUS,Business Applications: Retail Trade in the United States,https://fred.stlouisfed.org/series/BABANAICSRETSAUS,https://fred.stlouisfed.org/categories/1
+BABANAICSRETNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABANAICSRETNSAUS,https://fred.stlouisfed.org/categories/1
+TOTBUSSMSA,Total Business Sales,https://fred.stlouisfed.org/series/TOTBUSSMSA,https://fred.stlouisfed.org/categories/1
+TOTBUSSMNSA,"Millions of Dollars, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/TOTBUSSMNSA,https://fred.stlouisfed.org/categories/1
+TOTBUSMPCSMSA,"Percent Change, Seasonally Adjusted",https://fred.stlouisfed.org/series/TOTBUSMPCSMSA,https://fred.stlouisfed.org/categories/1
+TOTBUSMPCSMNSA,"Percent Change, Not Seasonally Adjusted",https://fred.stlouisfed.org/series/TOTBUSMPCSMNSA,https://fred.stlouisfed.org/categories/1
+BABATOTALSAUS,Business Applications: Total for All NAICS in the United States,https://fred.stlouisfed.org/series/BABATOTALSAUS,https://fred.stlouisfed.org/categories/1
+BABATOTALNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABATOTALNSAUS,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSAUS,Business Applications for the United States,https://fred.stlouisfed.org/series/BUSAPPWNSAUS,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSAUSYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/BUSAPPWNSAUSYY,https://fred.stlouisfed.org/categories/1
+HBUSAPPWNSAUS,High-Propensity Business Applications for the United States,https://fred.stlouisfed.org/series/HBUSAPPWNSAUS,https://fred.stlouisfed.org/categories/1
+HBUSAPPWNSAUSYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/HBUSAPPWNSAUSYY,https://fred.stlouisfed.org/categories/1
+BFPBF4QTOTALSAUS,Projected Business Formations Within Four Quarters: Total for All NAICS in the United States,https://fred.stlouisfed.org/series/BFPBF4QTOTALSAUS,https://fred.stlouisfed.org/categories/1
+BFPBF4QTOTALNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BFPBF4QTOTALNSAUS,https://fred.stlouisfed.org/categories/1
+BAHBATOTALSAUS,High-Propensity Business Applications: Total for All NAICS in the United States,https://fred.stlouisfed.org/series/BAHBATOTALSAUS,https://fred.stlouisfed.org/categories/1
+BAHBATOTALNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BAHBATOTALNSAUS,https://fred.stlouisfed.org/categories/1
+BABANAICS72SAUS,Business Applications: Accommodation and Food Services in the United States,https://fred.stlouisfed.org/series/BABANAICS72SAUS,https://fred.stlouisfed.org/categories/1
+BABANAICS72NSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABANAICS72NSAUS,https://fred.stlouisfed.org/categories/1
+BABANAICS23SAUS,Business Applications: Construction in the United States,https://fred.stlouisfed.org/series/BABANAICS23SAUS,https://fred.stlouisfed.org/categories/1
+BABANAICS23NSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABANAICS23NSAUS,https://fred.stlouisfed.org/categories/1
+BABANAICSMNFSAUS,Business Applications: Manufacturing in the United States,https://fred.stlouisfed.org/series/BABANAICSMNFSAUS,https://fred.stlouisfed.org/categories/1
+BABANAICSMNFNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABANAICSMNFNSAUS,https://fred.stlouisfed.org/categories/1
+WBUSAPPWNSAUS,Business Applications with Planned Wages for the United States,https://fred.stlouisfed.org/series/WBUSAPPWNSAUS,https://fred.stlouisfed.org/categories/1
+WBUSAPPWNSAUSYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/WBUSAPPWNSAUSYY,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSANY,Business Applications for New York,https://fred.stlouisfed.org/series/BUSAPPWNSANY,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSANYYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/BUSAPPWNSANYYY,https://fred.stlouisfed.org/categories/1
+BABANAICSTWSAUS,Business Applications: Transportation and Warehousing in the United States,https://fred.stlouisfed.org/series/BABANAICSTWSAUS,https://fred.stlouisfed.org/categories/1
+BABANAICSTWNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABANAICSTWNSAUS,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSAFL,Business Applications for Florida,https://fred.stlouisfed.org/series/BUSAPPWNSAFL,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSAFLYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/BUSAPPWNSAFLYY,https://fred.stlouisfed.org/categories/1
+BABATOTALSANC,Business Applications: Total for All NAICS in North Carolina,https://fred.stlouisfed.org/series/BABATOTALSANC,https://fred.stlouisfed.org/categories/1
+BABATOTALNSANC,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABATOTALNSANC,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSATX,Business Applications for Texas,https://fred.stlouisfed.org/series/BUSAPPWNSATX,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSATXYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/BUSAPPWNSATXYY,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSACA,Business Applications for California,https://fred.stlouisfed.org/series/BUSAPPWNSACA,https://fred.stlouisfed.org/categories/1
+BUSAPPWNSACAYY,Percent Change from Year Ago,https://fred.stlouisfed.org/series/BUSAPPWNSACAYY,https://fred.stlouisfed.org/categories/1
+BABATOTALSAFL,Business Applications: Total for All NAICS in Florida,https://fred.stlouisfed.org/series/BABATOTALSAFL,https://fred.stlouisfed.org/categories/1
+BABATOTALNSAFL,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABATOTALNSAFL,https://fred.stlouisfed.org/categories/1
+BABATOTALSATX,Business Applications: Total for All NAICS in Texas,https://fred.stlouisfed.org/series/BABATOTALSATX,https://fred.stlouisfed.org/categories/1
+BABATOTALNSATX,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BABATOTALNSATX,https://fred.stlouisfed.org/categories/1
+BAHBANAICS51NSAUS,High-Propensity Business Applications: Information in the United States,https://fred.stlouisfed.org/series/BAHBANAICS51NSAUS,https://fred.stlouisfed.org/categories/1
+BAHBANAICS51SAUS,Seasonally Adjusted,https://fred.stlouisfed.org/series/BAHBANAICS51SAUS,https://fred.stlouisfed.org/categories/1
+BFBF4QTOTALSAUS,Business Formations Within Four Quarters: Total for All NAICS in the United States,https://fred.stlouisfed.org/series/BFBF4QTOTALSAUS,https://fred.stlouisfed.org/categories/1
+BFBF4QTOTALNSAUS,Not Seasonally Adjusted,https://fred.stlouisfed.org/series/BFBF4QTOTALNSAUS,https://fred.stlouisfed.org/categories/1
+USREC,NBER based Recession Indicators for the United States from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/USREC,https://fred.stlouisfed.org/categories/32262
+USRECD,Daily,https://fred.stlouisfed.org/series/USRECD,https://fred.stlouisfed.org/categories/32262
+USRECQ,Quarterly,https://fred.stlouisfed.org/series/USRECQ,https://fred.stlouisfed.org/categories/32262
+JHDUSRGDPBR,Dates of U.S. recessions as inferred by GDP-based recession indicator,https://fred.stlouisfed.org/series/JHDUSRGDPBR,https://fred.stlouisfed.org/categories/32262
+USSLIND,Leading Index for the United States,https://fred.stlouisfed.org/series/USSLIND,https://fred.stlouisfed.org/categories/32262
+JHGDPBRINDX,GDP-Based Recession Indicator Index,https://fred.stlouisfed.org/series/JHGDPBRINDX,https://fred.stlouisfed.org/categories/32262
+USPHCI,Coincident Economic Activity Index for the United States,https://fred.stlouisfed.org/series/USPHCI,https://fred.stlouisfed.org/categories/32262
+USRECDM,NBER based Recession Indicators for the United States from the Peak through the Trough,https://fred.stlouisfed.org/series/USRECDM,https://fred.stlouisfed.org/categories/32262
+USRECM,Monthly,https://fred.stlouisfed.org/series/USRECM,https://fred.stlouisfed.org/categories/32262
+USRECQM,Quarterly,https://fred.stlouisfed.org/series/USRECQM,https://fred.stlouisfed.org/categories/32262
+EUROREC,OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/EUROREC,https://fred.stlouisfed.org/categories/32262
+EURORECD,Daily,https://fred.stlouisfed.org/series/EURORECD,https://fred.stlouisfed.org/categories/32262
+USRECDP,NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough,https://fred.stlouisfed.org/series/USRECDP,https://fred.stlouisfed.org/categories/32262
+USRECP,Monthly,https://fred.stlouisfed.org/series/USRECP,https://fred.stlouisfed.org/categories/32262
+USRECQP,Quarterly,https://fred.stlouisfed.org/series/USRECQP,https://fred.stlouisfed.org/categories/32262
+USARECDM,OECD based Recession Indicators for the United States from the Peak through the Trough,https://fred.stlouisfed.org/series/USARECDM,https://fred.stlouisfed.org/categories/32262
+USARECM,Monthly,https://fred.stlouisfed.org/series/USARECM,https://fred.stlouisfed.org/categories/32262
+GBRRECDM,OECD based Recession Indicators for the United Kingdom from the Peak through the Trough,https://fred.stlouisfed.org/series/GBRRECDM,https://fred.stlouisfed.org/categories/32262
+GBRRECM,Monthly,https://fred.stlouisfed.org/series/GBRRECM,https://fred.stlouisfed.org/categories/32262
+DEUREC,OECD based Recession Indicators for Germany from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/DEUREC,https://fred.stlouisfed.org/categories/32262
+DEURECD,Daily,https://fred.stlouisfed.org/series/DEURECD,https://fred.stlouisfed.org/categories/32262
+CANRECDM,OECD based Recession Indicators for Canada from the Peak through the Trough,https://fred.stlouisfed.org/series/CANRECDM,https://fred.stlouisfed.org/categories/32262
+CANRECM,Monthly,https://fred.stlouisfed.org/series/CANRECM,https://fred.stlouisfed.org/categories/32262
+INDREC,OECD based Recession Indicators for India from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/INDREC,https://fred.stlouisfed.org/categories/32262
+INDRECD,Daily,https://fred.stlouisfed.org/series/INDRECD,https://fred.stlouisfed.org/categories/32262
+JPNRECP,OECD based Recession Indicators for Japan from the Peak through the Period preceding the Trough,https://fred.stlouisfed.org/series/JPNRECP,https://fred.stlouisfed.org/categories/32262
+JPNRECDP,Daily,https://fred.stlouisfed.org/series/JPNRECDP,https://fred.stlouisfed.org/categories/32262
+CHNRECM,OECD based Recession Indicators for China from the Peak through the Trough,https://fred.stlouisfed.org/series/CHNRECM,https://fred.stlouisfed.org/categories/32262
+CHNRECDM,Daily,https://fred.stlouisfed.org/series/CHNRECDM,https://fred.stlouisfed.org/categories/32262
+ITARECD,OECD based Recession Indicators for Italy from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/ITARECD,https://fred.stlouisfed.org/categories/32262
+ITAREC,Monthly,https://fred.stlouisfed.org/series/ITAREC,https://fred.stlouisfed.org/categories/32262
+OECDNMERECDM,OECD based Recession Indicators for OECD and Non-member Economies from the Peak through the Trough,https://fred.stlouisfed.org/series/OECDNMERECDM,https://fred.stlouisfed.org/categories/32262
+OECDNMERECM,Monthly,https://fred.stlouisfed.org/series/OECDNMERECM,https://fred.stlouisfed.org/categories/32262
+FRAREC,OECD based Recession Indicators for France from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/FRAREC,https://fred.stlouisfed.org/categories/32262
+FRARECD,Daily,https://fred.stlouisfed.org/series/FRARECD,https://fred.stlouisfed.org/categories/32262
+USAREC,OECD based Recession Indicators for the United States from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/USAREC,https://fred.stlouisfed.org/categories/32262
+USARECD,Daily,https://fred.stlouisfed.org/series/USARECD,https://fred.stlouisfed.org/categories/32262
+AUSRECDM,OECD based Recession Indicators for Australia from the Peak through the Trough,https://fred.stlouisfed.org/series/AUSRECDM,https://fred.stlouisfed.org/categories/32262
+AUSRECM,Monthly,https://fred.stlouisfed.org/series/AUSRECM,https://fred.stlouisfed.org/categories/32262
+EURORECM,OECD based Recession Indicators for Euro Area from the Peak through the Trough,https://fred.stlouisfed.org/series/EURORECM,https://fred.stlouisfed.org/categories/32262
+EURORECDM,Daily,https://fred.stlouisfed.org/series/EURORECDM,https://fred.stlouisfed.org/categories/32262
+NDLREC,OECD based Recession Indicators for Netherlands from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/NDLREC,https://fred.stlouisfed.org/categories/32262
+NDLRECD,Daily,https://fred.stlouisfed.org/series/NDLRECD,https://fred.stlouisfed.org/categories/32262
+CHEREC,OECD based Recession Indicators for Switzerland from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/CHEREC,https://fred.stlouisfed.org/categories/32262
+CHERECD,Daily,https://fred.stlouisfed.org/series/CHERECD,https://fred.stlouisfed.org/categories/32262
+KORRECD,OECD based Recession Indicators for Korea from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/KORRECD,https://fred.stlouisfed.org/categories/32262
+KORREC,Monthly,https://fred.stlouisfed.org/series/KORREC,https://fred.stlouisfed.org/categories/32262
+NORREC,OECD based Recession Indicators for Norway from the Period following the Peak through the Trough,https://fred.stlouisfed.org/series/NORREC,https://fred.stlouisfed.org/categories/32262
+NORRECD,Daily,https://fred.stlouisfed.org/series/NORRECD,https://fred.stlouisfed.org/categories/32262
+MSCRECDM,OECD based Recession Indicators for Major Seven Countries from the Peak through the Trough,https://fred.stlouisfed.org/series/MSCRECDM,https://fred.stlouisfed.org/categories/32262
+ATLSBUSRGEP,Business Expectations: Sales Revenue Growth,https://fred.stlouisfed.org/series/ATLSBUSRGEP,https://fred.stlouisfed.org/categories/33936
+ATLSBUEGEP,Business Expectations: Employment Growth,https://fred.stlouisfed.org/series/ATLSBUEGEP,https://fred.stlouisfed.org/categories/33936
+ATLSBUSRGUP,Business Uncertainty: Sales Revenue Growth,https://fred.stlouisfed.org/series/ATLSBUSRGUP,https://fred.stlouisfed.org/categories/33936
+ATLSBUEGUP,Business Uncertainty: Employment Growth,https://fred.stlouisfed.org/series/ATLSBUEGUP,https://fred.stlouisfed.org/categories/33936
+ATLSBUIREI,Business Expectations: Capital Investment Rate Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUIREI,https://fred.stlouisfed.org/categories/33936
+ATLSBUSGUI,Business Uncertainty: Sales Growth Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUSGUI,https://fred.stlouisfed.org/categories/33936
+ATLSBUBEI,Business Expectations Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUBEI,https://fred.stlouisfed.org/categories/33936
+ATLSBUEGEI,Business Expectations: Employment Growth Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUEGEI,https://fred.stlouisfed.org/categories/33936
+ATLSBUSGEI,Business Expectations: Sales Growth Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUSGEI,https://fred.stlouisfed.org/categories/33936
+ATLSBUIRUI,Business Uncertainty: Capital Investment Rate Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUIRUI,https://fred.stlouisfed.org/categories/33936
+ATLSBUEGUI,Business Uncertainty: Employment Growth Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUEGUI,https://fred.stlouisfed.org/categories/33936
+ATLSBUBUI,Business Uncertainty Index (DISCONTINUED),https://fred.stlouisfed.org/series/ATLSBUBUI,https://fred.stlouisfed.org/categories/33936

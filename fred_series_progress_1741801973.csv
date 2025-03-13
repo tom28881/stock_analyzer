@@ -1,0 +1,90 @@
+series_id,name,url,source_category
+CROASMIDTIER,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Mid-Tier",https://fred.stlouisfed.org/series/CROASMIDTIER,https://fred.stlouisfed.org/categories/46
+CROASTIER0,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 0",https://fred.stlouisfed.org/series/CROASTIER0,https://fred.stlouisfed.org/categories/46
+CROASTIER1,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 1",https://fred.stlouisfed.org/series/CROASTIER1,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER1,AD&Co US Mortgage High Yield Index: Tier 1,https://fred.stlouisfed.org/series/CRTINDEXTIER1,https://fred.stlouisfed.org/categories/46
+CROASTIER3,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 3",https://fred.stlouisfed.org/series/CROASTIER3,https://fred.stlouisfed.org/categories/46
+CROASTIER2,"AD&Co US Mortgage High Yield Index, Credit-and-Option-Adjusted Spread: Tier 2",https://fred.stlouisfed.org/series/CROASTIER2,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER0,AD&Co US Mortgage High Yield Index: Tier 0,https://fred.stlouisfed.org/series/CRTINDEXTIER0,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER3,AD&Co US Mortgage High Yield Index: Tier 3,https://fred.stlouisfed.org/series/CRTINDEXTIER3,https://fred.stlouisfed.org/categories/46
+CRTINDEXTIER2,AD&Co US Mortgage High Yield Index: Tier 2,https://fred.stlouisfed.org/series/CRTINDEXTIER2,https://fred.stlouisfed.org/categories/46
+CRTINDEXMIDTIER,AD&Co US Mortgage High Yield Index: Mid-Tier,https://fred.stlouisfed.org/series/CRTINDEXMIDTIER,https://fred.stlouisfed.org/categories/46
+VISASMIDNSA,Visa Spending Momentum Index: Discretionary: United States,https://fred.stlouisfed.org/series/VISASMIDNSA,https://fred.stlouisfed.org/categories/46
+VISASMIDSA,Seasonally Adjusted,https://fred.stlouisfed.org/series/VISASMIDSA,https://fred.stlouisfed.org/categories/46
+VISASMIHNSA,Visa Spending Momentum Index: Headline: United States,https://fred.stlouisfed.org/series/VISASMIHNSA,https://fred.stlouisfed.org/categories/46
+VISASMIHSA,Seasonally Adjusted,https://fred.stlouisfed.org/series/VISASMIHSA,https://fred.stlouisfed.org/categories/46
+VISASMINNSA,Visa Spending Momentum Index: Non-discretionary: United States,https://fred.stlouisfed.org/series/VISASMINNSA,https://fred.stlouisfed.org/categories/46
+VISASMINSA,Seasonally Adjusted,https://fred.stlouisfed.org/series/VISASMINSA,https://fred.stlouisfed.org/categories/46
+RCCCBBALTOT,Large Bank Consumer Credit Card Balances: Total Balances,https://fred.stlouisfed.org/series/RCCCBBALTOT,https://fred.stlouisfed.org/categories/23
+RCMFLOORIG,Large Bank Consumer Mortgage Originations: New Originations,https://fred.stlouisfed.org/series/RCMFLOORIG,https://fred.stlouisfed.org/categories/23
+RCCCBACTDPD30P,Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based,https://fred.stlouisfed.org/series/RCCCBACTDPD30P,https://fred.stlouisfed.org/categories/23
+RCMFLOLTVPCT50,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile,https://fred.stlouisfed.org/series/RCMFLOLTVPCT50,https://fred.stlouisfed.org/categories/23
+RCMFLBACTDPDPCT30P,Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based,https://fred.stlouisfed.org/series/RCMFLBACTDPDPCT30P,https://fred.stlouisfed.org/categories/23
+RCCCBSHRMIN,Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment,https://fred.stlouisfed.org/series/RCCCBSHRMIN,https://fred.stlouisfed.org/categories/23
+RCMFLBBALDPDPCT30P,Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based,https://fred.stlouisfed.org/series/RCMFLBBALDPDPCT30P,https://fred.stlouisfed.org/categories/23
+RCMFLBACTDPDPCT90P,Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based,https://fred.stlouisfed.org/series/RCMFLBACTDPDPCT90P,https://fred.stlouisfed.org/categories/23
+RCCCOORG,Large Bank Consumer Credit Card Originations: New Originations,https://fred.stlouisfed.org/series/RCCCOORG,https://fred.stlouisfed.org/categories/23
+RCCCBSCOREPCT50,Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBSCOREPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBACTDPD90P,Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Accounts Based,https://fred.stlouisfed.org/series/RCCCBACTDPD90P,https://fred.stlouisfed.org/categories/23
+RCCCBSHRFULL,Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment,https://fred.stlouisfed.org/series/RCCCBSHRFULL,https://fred.stlouisfed.org/categories/23
+RCMFLOACT,Large Bank Consumer Mortgage Originations: Number of New Accounts,https://fred.stlouisfed.org/series/RCMFLOACT,https://fred.stlouisfed.org/categories/23
+RCCCBBALREV,Large Bank Consumer Credit Card Balances: Revolving Balances Only,https://fred.stlouisfed.org/series/RCCCBBALREV,https://fred.stlouisfed.org/categories/23
+RCCCONUMACT,Large Bank Consumer Credit Card Originations: Number of New Accounts,https://fred.stlouisfed.org/series/RCCCONUMACT,https://fred.stlouisfed.org/categories/23
+RCCCBBALDPD30P,Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Balances Based,https://fred.stlouisfed.org/series/RCCCBBALDPD30P,https://fred.stlouisfed.org/categories/23
+RCMFLOBEDTIPCT50,Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 50th Percentile,https://fred.stlouisfed.org/series/RCMFLOBEDTIPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBBALDPD90P,Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based,https://fred.stlouisfed.org/series/RCCCBBALDPD90P,https://fred.stlouisfed.org/categories/23
+RCMFLOLTVPCT75,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 75th Percentile,https://fred.stlouisfed.org/series/RCMFLOLTVPCT75,https://fred.stlouisfed.org/categories/23
+RCMFLBBALDPDPCT60P,Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based,https://fred.stlouisfed.org/series/RCMFLBBALDPDPCT60P,https://fred.stlouisfed.org/categories/23
+RCMFLBOLTVPCT90,Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 90th Percentile,https://fred.stlouisfed.org/series/RCMFLBOLTVPCT90,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEUTILPCT75,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEUTILPCT75,https://fred.stlouisfed.org/categories/23
+RCMFLBBEDTIPCT90,Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile,https://fred.stlouisfed.org/series/RCMFLBBEDTIPCT90,https://fred.stlouisfed.org/categories/23
+RCMFLBBALDPDPCT90P,Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based,https://fred.stlouisfed.org/series/RCMFLBBALDPDPCT90P,https://fred.stlouisfed.org/categories/23
+RCCCBLIMPCT90,Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile,https://fred.stlouisfed.org/series/RCCCBLIMPCT90,https://fred.stlouisfed.org/categories/23
+RCCCBSHRGTMINLTMAX,Large Bank Consumer Credit Card Balances: Share of Accounts Making Greater Than the Minimum Payment but Less Than the Full Balance,https://fred.stlouisfed.org/series/RCCCBSHRGTMINLTMAX,https://fred.stlouisfed.org/categories/23
+RCMFLBOLTVPCT50,Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 50th Percentile,https://fred.stlouisfed.org/series/RCMFLBOLTVPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEUTILPCT50,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEUTILPCT50,https://fred.stlouisfed.org/categories/23
+RCCCOSCOREPCT10,Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile,https://fred.stlouisfed.org/series/RCCCOSCOREPCT10,https://fred.stlouisfed.org/categories/23
+RCMFLBACTDPDPCT60P,Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Accounts Based,https://fred.stlouisfed.org/series/RCMFLBACTDPDPCT60P,https://fred.stlouisfed.org/categories/23
+RCCCBPCTCLINC,Large Bank Consumer Credit Card Balances: Accounts with Credit Line Increase,https://fred.stlouisfed.org/series/RCCCBPCTCLINC,https://fred.stlouisfed.org/categories/23
+RCCCBCOMTOT,Large Bank Consumer Credit Card Balances: Total Commitments,https://fred.stlouisfed.org/series/RCCCBCOMTOT,https://fred.stlouisfed.org/categories/23
+RCCCBNUMACT,Large Bank Consumer Credit Card Balances: Number of Accounts,https://fred.stlouisfed.org/series/RCCCBNUMACT,https://fred.stlouisfed.org/categories/23
+RCMFLBSCOREPCT50,Large Bank Consumer Mortgage Balances: Current Credit Score: 50th Percentile,https://fred.stlouisfed.org/series/RCMFLBSCOREPCT50,https://fred.stlouisfed.org/categories/23
+RCMFLBFEDTIPCT75,Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 75th Percentile,https://fred.stlouisfed.org/series/RCMFLBFEDTIPCT75,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEUTILPCT90,Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 90th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEUTILPCT90,https://fred.stlouisfed.org/categories/23
+RCCCBSCOREPCT10,Large Bank Consumer Credit Card Balances: Current Credit Score: 10th Percentile,https://fred.stlouisfed.org/series/RCCCBSCOREPCT10,https://fred.stlouisfed.org/categories/23
+RCCCBACTIVEBALPCT50,Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBACTIVEBALPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBSCOREPCT25,Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile,https://fred.stlouisfed.org/series/RCCCBSCOREPCT25,https://fred.stlouisfed.org/categories/23
+RCMFLOSCOREPCT25,Large Bank Consumer Mortgage Originations: Original Credit Score: 25th Percentile,https://fred.stlouisfed.org/series/RCMFLOSCOREPCT25,https://fred.stlouisfed.org/categories/23
+RCMFLOLTVPCT90,Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 90th Percentile,https://fred.stlouisfed.org/series/RCMFLOLTVPCT90,https://fred.stlouisfed.org/categories/23
+RCMFLBACTNUM,Large Bank Consumer Mortgage Balances: Number of Accounts,https://fred.stlouisfed.org/series/RCMFLBACTNUM,https://fred.stlouisfed.org/categories/23
+RCCCBBALDPD60P,Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based,https://fred.stlouisfed.org/series/RCCCBBALDPD60P,https://fred.stlouisfed.org/categories/23
+RCCCOSCOREPCT25,Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile,https://fred.stlouisfed.org/series/RCCCOSCOREPCT25,https://fred.stlouisfed.org/categories/23
+RCCCBPCTCLDEC,Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease,https://fred.stlouisfed.org/series/RCCCBPCTCLDEC,https://fred.stlouisfed.org/categories/23
+RCMFLOSCOREPCT50,Large Bank Consumer Mortgage Originations: Original Credit Score: 50th Percentile,https://fred.stlouisfed.org/series/RCMFLOSCOREPCT50,https://fred.stlouisfed.org/categories/23
+RCMFLOSCOREPCT10,Large Bank Consumer Mortgage Originations: Original Credit Score: 10th Percentile,https://fred.stlouisfed.org/series/RCMFLOSCOREPCT10,https://fred.stlouisfed.org/categories/23
+RCMFLOFEDTIPCT75,Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 75th Percentile,https://fred.stlouisfed.org/series/RCMFLOFEDTIPCT75,https://fred.stlouisfed.org/categories/23
+RCCCBLIMPCT50,Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile,https://fred.stlouisfed.org/series/RCCCBLIMPCT50,https://fred.stlouisfed.org/categories/23
+RCCCBACTDPD60P,Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based,https://fred.stlouisfed.org/series/RCCCBACTDPD60P,https://fred.stlouisfed.org/categories/23
+JPINTDUSDJPY,Japan Intervention: Japanese Bank purchases of USD against JPY,https://fred.stlouisfed.org/series/JPINTDUSDJPY,https://fred.stlouisfed.org/categories/32145
+USINTDMRKTJPY,U.S. Intervention: in Market Transactions in the JPY/USD (Millions of USD),https://fred.stlouisfed.org/series/USINTDMRKTJPY,https://fred.stlouisfed.org/categories/32145
+TRINTDEXR,Turkish Intervention: Central Bank of Turkey Purchases of USD (Millions of USD),https://fred.stlouisfed.org/series/TRINTDEXR,https://fred.stlouisfed.org/categories/32145
+CHINTDCHFUSD,Swiss Intervention: Swiss National Bank Purchases of USD against CHF (Millions of USD),https://fred.stlouisfed.org/series/CHINTDCHFUSD,https://fred.stlouisfed.org/categories/32145
+MEXINTDUSD,Mexican Intervention: Banco de Mexico Purchases of USD against MXN (Millions of USD),https://fred.stlouisfed.org/series/MEXINTDUSD,https://fred.stlouisfed.org/categories/32145
+AUINTDDL,Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Dealers (AUD Millions),https://fred.stlouisfed.org/series/AUINTDDL,https://fred.stlouisfed.org/categories/32145
+USINTDMRKTDM,U.S. Intervention: in Market Transactions in the DEM/USD (Euro since 1999) (Millions of USD),https://fred.stlouisfed.org/series/USINTDMRKTDM,https://fred.stlouisfed.org/categories/32145
+USINTDMRKTOTH,U.S. Intervention: in Market Transactions in Other Currencies (Millions of USD),https://fred.stlouisfed.org/series/USINTDMRKTOTH,https://fred.stlouisfed.org/categories/32145
+JPINTDDMEJPY,Japan Intervention: Japanese Bank purchases of DM/Euro against JPY,https://fred.stlouisfed.org/series/JPINTDDMEJPY,https://fred.stlouisfed.org/categories/32145
+AUINTDGT,Australian Bank Transactions: RBA Spot and Forward Transactions: Net with Government and other Counterparties (AUD Millions),https://fred.stlouisfed.org/series/AUINTDGT,https://fred.stlouisfed.org/categories/32145
+ITINTDRES,"Italian Intervention: Banca d'Italia Purchases of Foreign Exchange (Millions of ECU's, Euros after 1999) (DISCONTINUED)",https://fred.stlouisfed.org/series/ITINTDRES,https://fred.stlouisfed.org/categories/32145
+USINTDCSJPY,U.S. Intervention: With-Customer Transactions in the JPY/USD (Millions of USD),https://fred.stlouisfed.org/series/USINTDCSJPY,https://fred.stlouisfed.org/categories/32145
+DEINTDUSDDM,German Intervention: Bundesbank Purchases on the Dollar/D-Mark (Millions of DEM) (DISCONTINUED),https://fred.stlouisfed.org/series/DEINTDUSDDM,https://fred.stlouisfed.org/categories/32145
+JPINTDEXR,Japan Intervention: Japanese Bank purchases of USD against DM,https://fred.stlouisfed.org/series/JPINTDEXR,https://fred.stlouisfed.org/categories/32145
+CHINTDCHFDM,Swiss Intervention: Swiss National Bank Purchases of DEM against CHF (Millions of DEM),https://fred.stlouisfed.org/series/CHINTDCHFDM,https://fred.stlouisfed.org/categories/32145
+JPINTDUSDRP,Japan Intervention: Japanese Bank purchases of USD against Rupiah,https://fred.stlouisfed.org/series/JPINTDUSDRP,https://fred.stlouisfed.org/categories/32145
+DEINTDEMS,German Intervention: Bundesbank Purchases in EMS Markets (Millions of DEM) (DISCONTINUED),https://fred.stlouisfed.org/series/DEINTDEMS,https://fred.stlouisfed.org/categories/32145
+USINTDCSOTH,U.S. Intervention: With-Customer Transactions in Other Currencies (Millions of USD),https://fred.stlouisfed.org/series/USINTDCSOTH,https://fred.stlouisfed.org/categories/32145
+CHINTDUSDJPY,Swiss Intervention: Swiss National Bank Purchases of USD against JPY (Millions of USD),https://fred.stlouisfed.org/series/CHINTDUSDJPY,https://fred.stlouisfed.org/categories/32145
+USINTDCSDM,U.S. Intervention: With-Customer Transactions in the DEM/USD (Euro since 1999) (Millions of USD),https://fred.stlouisfed.org/series/USINTDCSDM,https://fred.stlouisfed.org/categories/32145
+CHINTDUSDDM,Swiss Intervention: Swiss National Bank Purchases of USD against DEM (Millions of USD),https://fred.stlouisfed.org/series/CHINTDUSDDM,https://fred.stlouisfed.org/categories/32145
+NROU,Noncyclical Rate of Unemployment,https://fred.stlouisfed.org/series/NROU,https://fred.stlouisfed.org/categories/10
+NROUST,Natural Rate of Unemployment (Short-Term) (DISCONTINUED),https://fred.stlouisfed.org/series/NROUST,https://fred.stlouisfed.org/categories/10
